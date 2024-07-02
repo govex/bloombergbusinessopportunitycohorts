@@ -1,0 +1,636 @@
+cohort,start_date,end_date,first_name,last_name,business_name,industry,naics,closed,street,city,zipcode,state,address,latitude,longitude
+JHU # 09,1/9/2020,4/24/2020,Guillermo,Barral,R and G Heating And Cooling,Construction,,,1 Atherton Garth,Timonium,21093,MD,1 Atherton Garth Timonium 21093 MD ,39.4291871,-76.6199748
+JHU # 17,1/19/2023,4/14/2023,Tameka,Payton,Psychometric Solutions,Research,541910,No,1 N Charles St,Baltimore,21201,MD,1 N Charles St Baltimore 21201 MD ,39.2901125,-76.6148256
+JHU # 16,9/8/2022,12/9/2022,Angela,Donovan,Donovan waterworks,Construction,237110,No,1 N Park Dr Ste 108,Cockeysville,21030,MD,1 N Park Dr Ste 108 Cockeysville 21030 MD ,39.4982956,-76.6499451
+JHU # 13,9/8/2021,12/16/2021,Michael,Washington,The Washington Building Group,Construction,,No,1 Stratford Road,Baltimore,21218,MD,1 Stratford Road Baltimore 21218 MD ,39.33928,-76.6179461
+JHU # 05,9/13/2018,12/14/2018,Sonjie,DeCaires,Sonjie Productions,Services,711300,,10 E North Ave,Baltimore,21202,MD,10 E North Ave Baltimore 21202 MD ,39.3117087,-76.6155478
+JHU # 02,3/22/2017,7/7/2017,Hasdai,Westbrook,ChangingMedia,Technology,,,10 E North Ave Suite 5,Baltimore,21202,MD,10 E North Ave Suite 5 Baltimore 21202 MD ,39.3117079,-76.6155717
+JHU # 05,9/13/2018,12/14/2018,Andrea,Scott,Brownstone Tax and Financial,Finance,,,10 W Eager St suite 310,Baltimore,21201,MD,10 W Eager St suite 310 Baltimore 21201 MD ,39.3010914,-76.6168544
+JHU # 03,11/30/2017,3/16/2018,Sonia,Smith,Complete Care Solutions,Healthcare,,,100 Lavenport Cir,Frederick,21702,MD,100 Lavenport Cir Frederick 21702 MD ,39.4262313,-77.4411879
+JHU # 02,3/22/2017,7/7/2017,Iman,McFarland,"Twenty First Century Expo Group, Inc.",Hospitality,,,1000 Hampton Park Blvd,Capitol Heights,20743,MD,1000 Hampton Park Blvd Capitol Heights 20743 MD ,38.8750349,-76.8495734
+JHU # 02,3/22/2017,7/7/2017,Kal,Bhatti,"Mimar Architects and Engineers, Inc",Construction,,,1000 New Jersey Ave SE Apt 524,Washington,20003,DC,1000 New Jersey Ave SE Apt 524 Washington 20003 DC ,38.8779987,-77.0043268
+JHU # 06,1/17/2019,4/19/2019,Marcy,Sagel,MSA Interiors,Design,,,1000 S Ellwood Ave,Baltimore,21224,MD,1000 S Ellwood Ave Baltimore 21224 MD ,39.2811489,-76.5728632
+JHU # 20,1/24/2024,4/18/2024,Ehime,Eigbe,Sweetkiwi Holdings,Food & Beverage,311520,No,1001 Highpoint Trl,Laurel,20707,MD,1001 Highpoint Trl Laurel 20707 MD ,39.091152,-76.887649
+JHU # 07,5/16/2019,8/9/2019,Dawn,Jackson,Nudawn Marketing Group,Marketing,,,1003 Didmarton Dr,Bowie,20721,MD,1003 Didmarton Dr Bowie 20721 MD ,38.9041714,-76.7480732
+JHU # 04,4/5/2018,7/20/2018,Gary,Ditto,WHO a staffing company,Services,561311,,10055 Red Run Blvd,Owings Mills,21117,MD,10055 Red Run Blvd Owings Mills 21117 MD ,39.3996604,-76.7787354
+JHU # 17,1/19/2023,4/14/2023,Carla,Chambers,"The Nelson Ideation Group, LLC",Consulting,541611,No,10055 Red Run Blvd,Owings Mills,21117,MD,10055 Red Run Blvd Owings Mills 21117 MD ,39.3996604,-76.7787354
+JHU # 11,1/11/2021,4/21/2021,Stephanie,Franklin,"The Franklin Law Group, P.C.",Other,,,1007 Ingleside Ave,Catonsville,21228,MD,1007 Ingleside Ave Catonsville 21228 MD ,39.2912522,-76.7318817
+JHU # 02,3/22/2017,7/7/2017,Alex,Menkes,Adashi Systems LLC,Technology,,,101 N Haven St Suite 301,Baltimore,21224,MD,101 N Haven St Suite 301 Baltimore 21224 MD ,39.2941707,-76.5622792
+JHU # 05,9/13/2018,12/14/2018,Malcolm,Day,M Four Security,Security,,,101 N Haven St Suite 301,Baltimore,21224,MD,101 N Haven St Suite 301 Baltimore 21224 MD ,39.2941707,-76.5622792
+JHU # 10,9/14/2020,12/16/2020,Will,Gee,Balti Virtual,Technology,,,101 W Dickman St Suite 600,Baltimore,21230,MD,101 W Dickman St Suite 600 BALTIMORE 21230 MD ,39.2627296,-76.6159472
+JHU # 01,1/18/2017,4/21/2017,Colleen,Vacelet,"Intreegue Design, Inc.",Design,,,1010 Francis Ave,Halethorpe,21227,MD,1010 Francis Ave Halethorpe 21227 MD ,39.2347056,-76.7029688
+JHU # 05,9/13/2018,12/14/2018,Matt,Newcomer,Mayson-Dixon Strategic Consulting,Consulting,,No,1010 Park Ave Suite 103,Baltimore,21201,MD,1010 Park Ave Suite 103 Baltimore 21201 MD ,39.303064,-76.61911
+JHU # 10,9/14/2020,12/16/2020,Hazel,Geary,Drio,Technology,,,1014 W 36th St,Baltimore,21211,MD,1014 W 36th St Baltimore 21211 MD ,39.3312568,-76.6335258
+JHU # 19,9/13/2023,12/14/2023,Theo,Jones,Weekend Whitecoat Concierge,,621300,No,1014 W 36th St,Baltimore,21211,MD,1014 W 36th St Baltimore 21211 MD ,39.3312568,-76.6335258
+JHU # 10,9/14/2020,12/16/2020,Terrell,Trent,"ProActive Therapy, llc",Healthcare,,,1016 Booth St,Baltimore,21223,MD,1016 Booth St Baltimore 21223 MD ,39.2882961,-76.6345089
+JHU # 18,5/11/2023,8/11/2023,Kali,Jordan,Gbanwee,Consulting,541611,No,10166 Goodin Circle,Columbia,21046,MD,10166 Goodin Circle Columbia 21046 MD ,39.179132,-76.8640598
+JHU # 17,1/19/2023,4/14/2023,Chrissy,Cabrera,Naturally London,,424210,No,10218 Green Forest Dr,Silver Spring,20903,MD,10218 Green Forest Dr Silver Spring 20903 MD ,39.0219907,-76.9729541
+JHU # 04,4/5/2018,7/20/2018,David,Reagle,Browning Reagle Insurance Agency,Retail,,,10228 Nuthatch Dr,New Market,21774,MD,10228 Nuthatch Dr New Market 21774 MD ,39.4207708,-77.3117786
+JHU # 02,3/22/2017,7/7/2017,Libby,Kavoulakis,The Metis Group LLC,Services,523940,Yes,1025 Connecticut Ave NW Suite 100,Washington,20036,DC,1025 Connecticut Ave NW Suite 100 Washington 20036 DC ,38.9033522,-77.0392654
+JHU # 06,1/17/2019,4/19/2019,Patricia,Adams,Encore Equipment and Delivery Services,Services,541600,,103 Saint Helena Avenue,Baltimore,21222,MD,103 Saint Helena Avenue Baltimore 21222 MD ,39.2604706,-76.5256904
+JHU # 09,1/9/2020,4/24/2020,Michael,Raphael,Direct Dimensions,Other,,,10310 South Dolfield Road,Owings Mills,21117,MD,10310 South Dolfield Road Owings Mills 21117 MD ,39.4133609,-76.7832986
+JHU # 15,5/5/2022,8/5/2022,Antonio,McMillion,MFP Management & Construction LLC,Construction,,No,10320 Little Patuxent Pkwy Ste 200,Columbia,21044,MD,10320 Little Patuxent Pkwy Ste 200 Columbia 21044 MD ,39.2149457,-76.8582193
+JHU # 13,9/8/2021,12/16/2021,Kera,Ritter,Ritter Group LLC,Consulting,,No,1040 Park Ave Ste 300,Baltimore,21201,MD,1040 Park Ave Ste 300 Baltimore 21201 MD ,39.3035313,-76.6196518
+JHU # 12,5/10/2021,8/18/2021,Chanika,Pope,Angel Companion Inc,Services,561720,Yes,10440 Shaker Drive STE 104B,Columbia,21046,MD,10440 Shaker Drive STE 104B Columbia 21046 MD ,39.1850454,-76.8702494
+JHU # 19,9/13/2023,12/14/2023,renee,Mcswain,"Sagelight Integrative Wellness Center, LLC",Healthcare,621399,No,10450 Shaker Dr,Columbia,21046,MD,10450 Shaker Dr Columbia 21046 MD ,39.1853961,-76.8696829
+JHU # 01,1/18/2017,4/21/2017,Javed,Patel,Boulevard Contractors Corp,Construction,,,10451 Mill Run Cir,Owings Mills,21117,MD,10451 Mill Run Cir Owings Mills 21117 MD ,39.4056119,-76.7937896
+JHU # 04,4/5/2018,7/20/2018,Gwendolyn,Johnson,Express Employment Professionals,Services,561300,,10461 Mill Run Cir,Owings Mills,21117,MD,10461 Mill Run Cir Owings Mills 21117 MD ,39.4067493,-76.7943851
+JHU # 11,1/11/2021,4/21/2021,Kate,Shamis,Peak Performance Accounting and Business Consulting,Other,,,10461 Mill Run Cir Ste 720,Owings Mills,21117,MD,10461 Mill Run Cir Ste 720 Owings Mills 21117 MD ,39.4080029,-76.7868715
+JHU # 15,5/5/2022,8/5/2022,Brian,Singer,"Foxtrot Media, Inc.",Technology,,No,10461 Mill Run Cir Ste 910,Owings Mills,21117,MD,10461 Mill Run Cir Ste 910 Owings Mills 21117 MD ,39.4067883,-76.7943304
+JHU # 18,5/11/2023,8/11/2023,Monica,Mack,M3T Cx Authorities LLC,Engineering,541990,No,1050 30th Street NW,Washington,20007,DC,1050 30th Street NW Washington 20007 DC ,38.9039813,-77.0592371
+JHU # 03,11/30/2017,3/16/2018,Aaron,McNeil,Midnite Confections,Food & Beverage,,,1051 S Charles St Floor 1,Baltimore,21230,MD,1051 S Charles St Floor 1 Baltimore 21230 MD ,39.2771112,-76.6141689
+JHU # 18,5/11/2023,8/11/2023,Francene,Lobban,Good Gyal Lash Palace LLC,Cosmetic,812112,No,10520 Baltimore Ave,Beltsville,20705,MD,10520 Baltimore Ave Beltsville 20705 MD ,39.0293591,-76.9169688
+JHU # 10,9/14/2020,12/16/2020,Deborah,Bakalich,Senior Care Lifestyles,Consulting,,,10523 Gateridge Rd,Cockeysville,21030,MD,10523 Gateridge Rd Cockeysville 21030 MD ,39.4777434,-76.6123384
+JHU # 20,1/24/2024,4/18/2024,Jacqueline,Baker,Scarlet Communications,,541000,No,10524 Galena Ln,Upper Marlboro,20772,MD,10524 Galena Ln Upper Marlboro 20772 MD ,38.821066,-76.8343301
+JHU # 19,9/13/2023,12/14/2023,Jennifer,Gardner,"Platinum Paws Pet Services, LLC",,812910,No,1056 Bramly Dr,Hagerstown,21742,MD,1056 Bramly Dr Hagerstown 21742 MD ,39.6661776,-77.7276012
+JHU # 10,9/14/2020,12/16/2020,Michael,Carico,AbleSpark,Technology,,,1058 Marywood Dr,Davidsonville,21035,MD,1058 Marywood Dr Davidsonville 21035 MD ,38.9623523,-76.6209211
+JHU # 19,9/13/2023,12/14/2023,Stephen,Conti,Tocar LLC,,621300,No,10630 Little Patuxent Pkwy,Columbia,21044,MD,10630 Little Patuxent Pkwy Columbia 21044 MD ,39.2143756,-76.8708123
+JHU # 13,9/8/2021,12/16/2021,Melanie,Adams,"Melanie L. Adams, MD, PA",Healthcare,,No,10700 Charter Dr Ste 320,Columbia,21044,MD,10700 Charter Dr Ste 320 Columbia 21044 MD ,39.2118736,-76.8818961
+JHU # 07,5/16/2019,8/9/2019,Keara,Hayes,Apex Payroll,Services,541214,,10711 Red Run Blvd Suite 101,Owings Mills,21117,MD,10711 Red Run Blvd Suite 101 Owings Mills 21117 MD ,39.4146406,-76.8009314
+JHU # 10,9/14/2020,12/16/2020,Allen,Owens,Paul Davis Restoration of Greater Baltimore,Services,236220,,10715 Red Run Blvd 114,Owings Mills,21117,MD,10715 Red Run Blvd 114 Owings Mills 21117 MD ,39.4163349,-76.803822
+JHU # 17,1/19/2023,4/14/2023,Margo,Burr,Groove Kidz LLC,,611610,No,10821 Red Run Blvd,Owings Mills,21117,MD,10821 Red Run Blvd Owings Mills 21117 MD ,39.4205702,-76.8023855
+JHU # 05,9/13/2018,12/14/2018,Denise,Davis,Davis Unlimited Information Technologies,Services,541330,,10821 Red Run Blvd Box 1067,Owings Mills,21117,MD,10821 Red Run Blvd Box 1067 Owings Mills 21117 MD ,39.4205702,-76.8023855
+JHU # 08,9/12/2019,12/13/2019,Annette,Walter,Timber Industries,Services,423800,,10884 York Rd,Cockeysville,21030,MD,10884 York Rd Cockeysville 21030 MD ,39.483634,-76.6451004
+JHU # 04,4/5/2018,7/20/2018,Joanne,Grigsby,Bennett Caterers,Food & Beverage,,,10901 Indian Head Hwy Suite 200,Fort Washington,20744,MD,10901 Indian Head Hwy Suite 200 Fort Washington 20744 MD ,38.7423611,-76.9928824
+JHU # 11,1/11/2021,4/21/2021,Jennifer,Rauhofer,"Stormwater Maintenance, LLC",Other,,,10944 Beaver Dam Rd Ste C,Cockeysville,21030,MD,10944 Beaver Dam Rd Ste C Cockeysville 21030 MD ,39.4808617,-76.6601239
+JHU # 11,1/11/2021,4/21/2021,Sophonia,Hardaway,The UPS Store,Other,,No,10999 Red Run Blvd Ste 205,Owings Mills,21117,MD,10999 Red Run Blvd Ste 205 Owings Mills 21117 MD ,39.4229061,-76.8061927
+JHU # 16,9/8/2022,12/9/2022,Chad,Kee,WhitworthKee Consulting LLC,Consulting,541611,No,11 Danbury St SW,Washington,20032,DC,11 Danbury St SW Washington 20032 DC ,38.8280372,-77.0082814
+JHU # 05,9/13/2018,12/14/2018,Andre,Cain,Cain Contracting,Construction,,,110 E Lexington St Suite 110,Baltimore,21202,MD,110 E Lexington St Suite 110 Baltimore 21202 MD ,39.2913675,-76.6130985
+JHU # 09,1/9/2020,4/24/2020,Mark,Howie,Second Byte Computers,Technology,,,"1100 Reisterstown Rd , Suite 100",Pikesville,21208,MD,"1100 Reisterstown Rd , Suite 100 Pikesville 21208 MD ",39.3735775,-76.7223722
+JHU # 15,5/5/2022,8/5/2022,Ana,Rodney,Momcares,Healthcare,,No,1101 W Pratt St,Baltimore,21223,MD,1101 W Pratt St Baltimore 21223 MD ,39.2855248,-76.6355125
+JHU # 03,11/30/2017,3/16/2018,John,Wood,"DUO, LLC",Printing,,,1107 S Hanover St,Baltimore,21230,MD,1107 S Hanover St Baltimore 21230 MD ,39.2765702,-76.6154061
+JHU # 11,1/11/2021,4/21/2021,Richard,Hanks,"MMC Investments I, LLC",Other,,,11104 Belton St,Upper Marlboro,20774,MD,11104 Belton St Upper Marlboro 20774 MD ,38.8861637,-76.8137313
+JHU # 17,1/19/2023,4/14/2023,Marcellis,Mosby,First & Last Restoration,,562910,No,11117 Reisterstown Rd,Owings Mills,21117,MD,11117 Reisterstown Rd Owings Mills 21117 MD ,39.4323841,-76.7956567
+JHU # 11,1/11/2021,4/21/2021,LaTonya,Barton,"Kingdomware Technologies, Inc.",Other,,,11186 Bel Aire Ct,Waldorf,20603,MD,11186 Bel Aire Ct Waldorf 20603 MD ,38.6310775,-76.922059
+JHU # 04,4/5/2018,7/20/2018,Aaron,Moore,Orange Element,Marketing,,,112 Upnor Rd,Baltimore,21212,MD,112 Upnor Rd Baltimore 21212 MD ,39.3583206,-76.6218504
+JHU # 18,5/11/2023,8/11/2023,Veronica,Logan,Free Baltimore,,621420,No,1120 North Charles St.,Baltimore,21201,MD,1120 North Charles St. Baltimore 21201 MD ,39.3030952,-76.6163251
+JHU # 11,1/11/2021,4/21/2021,Michael,Lester,Willowbrook Valuation and Advisory Services LLC,Other,,,1122 Bellemore Rd,Baltimore,21210,MD,1122 Bellemore Rd Baltimore 21210 MD ,39.369041,-76.6469003
+JHU # 03,11/30/2017,3/16/2018,Cynthia,Rumph,Fashion Spa House,Cosmetic,,No,11221 Dolfield Blvd,Owings Mills,21117,MD,11221 Dolfield Blvd Owings Mills 21117 MD ,39.4196148,-76.8075034
+JHU # 10,9/14/2020,12/16/2020,Carrie,Nicholson,A/I/DATA,Services,541330,,1123 Hanzlik Ave,Rosedale,21237,MD,1123 Hanzlik Ave Rosedale 21237 MD ,39.3217148,-76.5036021
+JHU # 18,5/11/2023,8/11/2023,Daemon,Jones,Vibrant Living LLC,Healthcare,621399,No,"1140 3rd Street, NE",Washington,20002,DC,"1140 3rd Street, NE Washington 20002 DC ",38.9049059,-77.0021927
+JHU # 17,1/19/2023,4/14/2023,Natasha,Ricketts,LaBuzbe Beauty Company,Services,812112,No,11401 W Branch Dr,Upper Marlboro,20774,MD,11401 W Branch Dr Upper Marlboro 20774 MD ,38.896499,-76.8069339
+JHU # 17,1/19/2023,4/14/2023,Chad,Schneider,Root3 Labs,Engineering,541330,No,11408 Cronridge Dr,Owings Mills,21117,MD,11408 Cronridge Dr Owings Mills 21117 MD ,39.4363039,-76.7768816
+JHU # 17,1/19/2023,4/14/2023,Debra,Jackson,STARR Trucking Company LLC,Transportation,488490,No,11419 Eastern Ave,Middle River,21220,MD,11419 Eastern Ave Middle River 21220 MD ,39.3394845,-76.4010053
+JHU # 09,1/9/2020,4/24/2020,Anthony,Clark,Washington Area Network Services,Technology,,,1142 Buchanan St NW,Washington,20011,DC,1142 Buchanan St NW Washington 20011 DC ,38.9459571,-77.0284701
+JHU # 08,9/12/2019,12/13/2019,Lindsey,Aucoin,AllCom Connect,Sales,,,11433 Pulaski Hwy Suite 6,White Marsh,21162,MD,11433 Pulaski Hwy Suite 6 White Marsh 21162 MD ,39.3963166,-76.4055311
+JHU # 15,5/5/2022,8/5/2022,Heidi,Hiller,"Innovative Party Planners, Innovative Virtual Events",Other,,No,11459 Cronhill Dr Ste N,Owings Mills,21117,MD,11459 Cronhill Dr Ste N Owings Mills 21117 MD ,39.4404243,-76.7751926
+JHU # 20,1/24/2024,4/18/2024,Quinn,Fowler,"The Eymit Group, LLC",,541620,No,1148 Washington Blvd,Baltimore,21230,MD,1148 Washington Blvd Baltimore 21230 MD ,39.2823566,-76.6334983
+JHU # 17,1/19/2023,4/14/2023,Christopher,Gross,Ascension Worldwide,Business Services,561110,No,115 Hilltop Rd,Silver Spring,20910,MD,115 Hilltop Rd Silver Spring 20910 MD ,38.9885623,-77.0073481
+JHU # 20,1/24/2024,4/18/2024,Renita,Anderson,"Defense Technology Integration, LLC",,541512,No,11518 Lottsford Terrace,Bowie,20721,MD,11518 Lottsford Terrace Bowie 20721 MD ,38.9219442,-76.8049672
+JHU # 20,1/24/2024,4/18/2024,Derrick,Simpson,"DAS Real Estate Services, LLC",,236118,No,11601 Flagship Ave,Fort Washington,20744,MD,11601 Flagship Ave Fort Washington 20744 MD ,38.730601,-76.9813469
+JHU # 07,5/16/2019,8/9/2019,Wayne,Gayle,Alliance Cleaning Solutions,Services,561720,,11700 Cygnet Dr,Waldorf,20601,MD,11700 Cygnet Dr Waldorf 20601 MD ,38.6378272,-76.9204384
+JHU # 19,9/13/2023,12/14/2023,Chinyere,Eze,Eze Family Health Center,,621111,No,11750 Business Park Dr,Waldorf,20601,MD,11750 Business Park Dr Waldorf 20601 MD ,38.6392067,-76.8986498
+JHU # 08,9/12/2019,12/13/2019,Tisha,Skinner,Smoothie King,Food & Beverage,,,118 Persimmon Cir,Reisterstown,21136,MD,118 Persimmon Cir Reisterstown 21136 MD ,39.4439384,-76.8179108
+JHU # 12,5/10/2021,8/18/2021,Christopher,Metting,AccuStrata,Services,334500,Yes,11900 Parklawn Dr Ste 203203,Rockville,20852,MD,11900 Parklawn Dr Ste 203203 Rockville 20852 MD ,39.0508901,-77.1062954
+JHU # 17,1/19/2023,4/14/2023,Michael,Charles,"SolutionsMET, LLC",Technology,541512,No,11909 Tallwood Ct,Potomac,20854,MD,11909 Tallwood Ct Potomac 20854 MD ,39.0508304,-77.2049236
+JHU # 08,9/12/2019,12/13/2019,Rita,Ossiander,Rossi Transportation Group,Services,541330,,120 Cockeysville Rd,Cockeysville,21030,MD,120 Cockeysville Rd Cockeysville 21030 MD ,39.4820336,-76.6477736
+JHU # 08,9/12/2019,12/13/2019,Nithin,Krishna,Psych Associates of Maryland,Healthcare,,,120 Sister Pierre Dr Suite 203,Towson,21204,MD,120 Sister Pierre Dr Suite 203 Towson 21204 MD ,39.3888922,-76.6075688
+JHU # 02,3/22/2017,7/7/2017,Brandy,Butler,ADC Management Solutions,Consulting,,,1200 18th St NW Suite 1001,Washington,20036,DC,1200 18th St NW Suite 1001 Washington 20036 DC ,38.9059372,-77.0420559
+JHU # 10,9/14/2020,12/16/2020,Connie,Gorum,C.L. Russell Group,Consulting,,,1200 G St NW # 678,Washington,20005,DC,1200 G St NW # 678 Washington 20005 DC ,38.8981626,-77.0282052
+JHU # 04,4/5/2018,7/20/2018,Stephanie,Mellinger,The Mellinger Group,Consulting,,,1200 Light St,Baltimore,21230,MD,1200 Light St Baltimore 21230 MD ,39.2758423,-76.6124776
+JHU # 06,1/17/2019,4/19/2019,Matthew,Wilchinski,StrengthOps,Services,713940,Yes,1200 Steuart St,Baltimore,21230,MD,1200 Steuart St Baltimore 21230 MD ,39.2697734,-76.5886798
+JHU # 05,9/13/2018,12/14/2018,Gabriel,Martino,Granite Works MD,Construction,,,12011 Nebel St,Rockville,20852,MD,12011 Nebel St Rockville 20852 MD ,39.051257,-77.1088653
+JHU # 15,5/5/2022,8/5/2022,Luke,Markey,ShieldCo Art,Design,,No,1209 N East St Ste D,Frederick,21701,MD,1209 N East St Ste D Frederick 21701 MD ,39.4284317,-77.4037631
+JHU # 02,3/22/2017,7/7/2017,James,Lowe,Baltimore School of Music,Education,,,1211 S Conkling St #134,Baltimore,21224,MD,1211 S Conkling St #134 Baltimore 21224 MD ,39.2790489,-76.5659796
+JHU # 14,1/10/2022,4/20/2022,Samuel,Fischler,CBT Baltimore,Healthcare,,No,1212 York Rd Ste A302,Timonium,21093,MD,1212 York Rd Ste A302 Timonium 21093 MD ,39.4168408,-76.6152603
+JHU # 09,1/9/2020,4/24/2020,John,Gilmore,Everson Advisory Group,Services,541990,,12138 Central Ave Pmb 226,Mitchellville,20721,MD,12138 Central Ave Pmb 226 Mitchellville 20721 MD ,38.9009233,-76.7956233
+JHU # 06,1/17/2019,4/19/2019,Carlos,Greenwood,A and A Plumbing,Services,238220,,1214 Canberwell Rd Suite A,Catonsville,21228,MD,1214 Canberwell Rd Suite A Catonsville 21228 MD ,39.2898148,-76.750177
+JHU # 11,1/11/2021,4/21/2021,Timothy,Park,"Onyx Design and Consulting, LLC",Other,,,1215 E Fort Ave,Baltimore,21230,MD,1215 E Fort Ave Baltimore 21230 MD ,39.2691301,-76.5976747
+JHU # 12,5/10/2021,8/18/2021,Lisa,Ennis,Eccentrics The Salon,Services,812112,,1219 Annapolis Rd Ste B,Odenton,21113,MD,1219 Annapolis Rd Ste B Odenton 21113 MD ,39.0834232,-76.6932651
+JHU # 09,1/9/2020,4/24/2020,Mark,Rosenfeld,Moon Ridge property Management,Services,531310,,122 Bluebill Ct,Havre de Grace,21078,MD,122 Bluebill Ct Havre de Grace 21078 MD ,39.5613538,-76.120496
+JHU # 11,1/11/2021,4/21/2021,Theresa,Williams-Harrison,"George Street Services, Inc.",Services,541511,,122 Phoenix Ct Ste 101,Walkersville,21793,MD,122 Phoenix Ct Ste 101 Walkersville 21793 MD ,39.4897868,-77.3443272
+JHU # 18,5/11/2023,8/11/2023,George,Cholakian,"CBS, Inc",Services,811212,No,12221 Distribution Place,Beltsville,20705,MD,12221 Distribution Place Beltsville 20705 MD ,39.0566741,-76.88618
+JHU # 10,9/14/2020,12/16/2020,Lora,Byala,Foursquare ITP,Logistics,,,1225 I St NW,Washington,20005,DC,1225 I St NW Washington 20005 DC ,38.9015926,-77.0291221
+JHU # 13,9/8/2021,12/16/2021,Iman,Moussa,"Misteka, LLC",Food & Beverage,,No,12250 Clarksville Pike,Clarksville,21029,MD,12250 Clarksville Pike Clarksville 21029 MD ,39.2111306,-76.9389906
+JHU # 13,9/8/2021,12/16/2021,Steven,Rands,Forgedweld,Services,711510,No,1229 New York St,Lawrence,66044,KS,1229 New York St Lawrence 66044 KS ,38.9607209,-95.231519
+JHU # 06,1/17/2019,4/19/2019,Christine,Nuessle,Bravium Consulting,Consulting,,,12300 Twinbrook Pkwy Suite 425,Rockville,20852,MD,12300 Twinbrook Pkwy Suite 425 Rockville 20852 MD ,39.0591383,-77.1201013
+JHU # 10,9/14/2020,12/16/2020,Brenda,Kwateng,Ingenuity Consulting Solutions Corp.,Consulting,,,1232 W Lafayette Ave,Baltimore,21217,MD,1232 W Lafayette Ave Baltimore 21217 MD ,39.2992202,-76.6384509
+JHU # 14,1/10/2022,4/20/2022,Elon,Bliden,Midway Liquors,Food & Beverage,,No,12320 Pulaski Hwy,Joppatowne,21085,MD,12320 Pulaski Hwy Joppatowne 21085 MD ,39.4176049,-76.3793898
+JHU # 09,1/9/2020,4/24/2020,Leslie,Frelow,Vino Three Zero One Wine Concierge,Hospitality,,,12333 Quarterback Ct,Bowie,20720,MD,12333 Quarterback Ct 12333 Quarterback Court Bowie 20720 MD ,38.9960729,-76.7929895
+JHU # 11,1/11/2021,4/21/2021,Stacy,Derrick,"Help in the Home, LLC",Other,,,12412 Quail Woods Dr,Germantown,20874,MD,12412 Quail Woods Dr Germantown 20874 MD ,39.1731441,-77.2558832
+JHU # 02,3/22/2017,7/7/2017,Ali,Eshghi,Primo Chicken,Hospitality,,,1242 W Lombard St,Baltimore,21223,MD,1242 W Lombard St Baltimore 21223 MD ,39.2866555,-76.637915
+JHU # 03,11/30/2017,3/16/2018,Gwen,Greene,Applied Information Technology,Technology,,,12422 Kondrup Dr,Fulton,20759,MD,12422 Kondrup Dr Fulton 20759 MD ,39.1427036,-76.9456354
+JHU # 08,9/12/2019,12/13/2019,Kim,Dow,Sass Studios,Design,,,125 E Patrick St Suite 3,Frederick,21701,MD,125 E Patrick St Suite 3 Frederick 21701 MD ,39.4140825,-77.4080026
+JHU # 06,1/17/2019,4/19/2019,Amy,Wetherill,Pediatric Development Center,Healthcare,,,12520 Prosperity Dr,Silver Spring,20904,MD,12520 Prosperity Dr Silver Spring 20904 MD ,39.0617946,-76.9618886
+JHU # 11,1/11/2021,4/21/2021,Rosemary,Cook,"Totally Whole Pastoral Counseling Services, LLC",Other,,,1262 Meridene Dr,Baltimore,21239,MD,1262 Meridene Dr Baltimore 21239 MD ,39.3687927,-76.5901935
+JHU # 01,1/18/2017,4/21/2017,Laurie,Sayles,Civility Management Solutions,Logistics,,,12629 Rustic Rock Ln,Beltsville,20705,MD,12629 Rustic Rock Ln Beltsville 20705 MD ,39.0637994,-76.8784693
+JHU # 08,9/12/2019,12/13/2019,Helen,Granado-Boesel,C and E Pharmacy Services,Services,541990,,1273 Creek Dr,Annapolis,21403,MD,1273 Creek Dr Annapolis 21403 MD ,38.9251693,-76.470192
+JHU # 19,9/13/2023,12/14/2023,Laurie,Chrzanowski,"Lormajote, LLC and Port 7 Project, LLC",,312130,No,12810 Shank Farm Way,Hagerstown,21742,MD,12810 Shank Farm Way Hagerstown 21742 MD ,39.6644776,-77.699809
+JHU # 12,5/10/2021,8/18/2021,John,Stokes,Stokes Plans and Permitting LLC,Construction,,,1282 Smallwood Dr W # 176,Waldorf,20603,MD,1282 Smallwood Dr W # 176 Waldorf 20603 MD ,38.6130088,-76.929821
+JHU # 01,1/18/2017,4/21/2017,Joshua,Carney,"Carney Engineering Group, Inc.",Construction,,,1290 Grantley Rd,York,17403,PA,1290 Grantley Rd York 17403 PA ,39.9391357,-76.7294341
+JHU # 07,5/16/2019,8/9/2019,Christopher,Barber,Cheaper Than A Geek,Technology,,,1296 Cronson Blvd Suite 3180,Crofton,21114,MD,1296 Cronson Blvd Suite 3180 Crofton 21114 MD ,39.0098316,-76.6999045
+JHU # 13,9/8/2021,12/16/2021,Ruy,Garcia-Zamor,"Garcia-Zamor Intellectual Property Law, LLC",Services,541110,No,12960 Linden Church Rd,Clarksville,21029,MD,12960 Linden Church Rd Clarksville 21029 MD ,39.2302998,-76.9613066
+JHU # 08,9/12/2019,12/13/2019,Constance,Nwosu,CN Accounting and Management Consulting,Finance,,,1300 Mercantile Lane,Largo,20774,MD,1300 Mercantile Lane Largo 20774 MD ,38.9076874,-76.8383105
+JHU # 13,9/8/2021,12/16/2021,Anjolene,Whaley,"Express Brokers Realty, LLC",Other,,No,"1300 Mercantile Lane, Suite Suite 139B",Largo,20774,MD,"1300 Mercantile Lane, Suite Suite 139B Largo 20774 MD ",38.9076874,-76.8383105
+JHU # 05,9/13/2018,12/14/2018,Jonathan,Draughn,Draughn and Associates,Consulting,,,1300 Pennsylvania Avenue NW Suite 700,Washington,20004,DC,1300 Pennsylvania Avenue NW Suite 700 Washington 20004 DC ,38.8943764,-77.0305726
+JHU # 01,1/18/2017,4/21/2017,Kevin,Dedner,Forward Solutions,Consulting,,Yes,1300B Dual Hwy XXX,Hagerstown,21740,MD,1300B Dual Hwy XXX Hagerstown 21740 MD ,39.628237,-77.698987
+JHU # 01,1/18/2017,4/21/2017,Brian,Meyer,Capital SUP,Other,,Yes,1300B Dual Hwy XXX,Hagerstown,21740,MD,1300B Dual Hwy XXX Hagerstown 21740 MD ,39.628237,-77.698987
+JHU # 03,11/30/2017,3/16/2018,Holly,Shook,CUPs Coffeehouse,Food & Beverage,,Yes,1301 N Broadway,Baltimore,21213,MD,1301 N Broadway Baltimore 21213 MD ,39.305477,-76.594322
+JHU # 08,9/12/2019,12/13/2019,Camilo,Williamson,AW Properties Corp,Construction,,,1302 Dellwood Ave,Baltimore,21211,MD,1302 Dellwood Ave Baltimore 21211 MD ,39.3337304,-76.6378544
+JHU # 12,5/10/2021,8/18/2021,Evol,Ewan,EJALE Group LLC,Services,238990,,13030 Chalfont Ave,Fort Washington,20744,MD,13030 Chalfont Ave Fort Washington 20744 MD ,38.710825,-76.9759261
+JHU # 08,9/12/2019,12/13/2019,Shawn,Nance,Community Bridge,Services,561210,,1306 Northern Lights Dr,Upper Marlboro,20774,MD,1306 Northern Lights Dr Upper Marlboro 20774 MD ,38.8707031,-76.8313829
+JHU # 16,9/8/2022,12/9/2022,Dajuan,Pitts,Clean Moves,Services,561720,No,1307 Paddock Ln,Bowie,20716,MD,1307 Paddock Ln Bowie 20716 MD ,38.9071208,-76.7249518
+JHU # 10,9/14/2020,12/16/2020,Avi,Siegel,Vital Signs LLC,Services,541930,,1308 Heather Crest Terrace,Silver Spring,20902,MD,1308 Heather Crest Terrace Silver Spring 20902 MD ,39.0442752,-77.0317194
+JHU # 14,1/10/2022,4/20/2022,LaDell,Carter,Royal Expression Travels,Hospitality,,No,1311 Walters Ave,Baltimore,21239,MD,1311 Walters Ave Baltimore 21239 MD ,39.3595113,-76.5916844
+JHU # 16,9/8/2022,12/9/2022,John,Maggio,Hawk Marketing Services,Marketing,541613,No,1313 Breezeway Dr.,Annapolis,21409,MD,1313 Breezeway Dr. Annapolis 21409 MD ,39.0360321,-76.4371696
+JHU # 05,9/13/2018,12/14/2018,Surya,Korn,Pharmasite Research,Healthcare,,,1314 Bedford Ave Suite 205,Baltimore,21208,MD,1314 Bedford Ave Suite 205 Baltimore 21208 MD ,39.3757297,-76.7273543
+JHU # 20,1/24/2024,4/18/2024,Dallas,Gordon,ECQ Marketing,,454390,No,1316 N Sewards Ct,Aberdeen,21001,MD,1316 N Sewards Ct Aberdeen 21001 MD ,39.4971855,-76.2060399
+JHU # 03,11/30/2017,3/16/2018,Jason,Schwartzberg,MD Energy Advisors,Services,541800,,13205 Falls Rd,Cockeysville,21030,MD,13205 Falls Rd Cockeysville 21030 MD ,39.4864056,-76.7069953
+JHU # 12,5/10/2021,8/18/2021,Ann,Williams,R and A Movers Inc,Services,493100,,1327 Ashton Rd,Hanover,21076,MD,1327 Ashton Rd Hanover 21076 MD ,39.1611714,-76.7054214
+JHU # 02,3/22/2017,7/7/2017,Debra,Keller-Greene,"Keller Professional Services, Inc.",Services,561300,,1329 Silverthorne Rd,Baltimore,21239,MD,1329 Silverthorne Rd Baltimore 21239 MD ,39.3515099,-76.5953386
+JHU # 17,1/19/2023,4/14/2023,Yvette,Wood,Five Legacy Group LLC,Hospitality,561920,No,13312 Catawba Manor Way,Clarksburg,20871,MD,13312 Catawba Manor Way Clarksburg 20871 MD ,39.2449405,-77.2803159
+JHU # 13,9/8/2021,12/16/2021,Himide,Hardy-Pointer,Adinkra Solutions Group LCC,Technology,,No,1338 Hollins street,Owings Mills,21223,MD,1338 Hollins street Owings Mills 21223 MD ,39.2876963,-76.6393108
+JHU # 07,5/16/2019,8/9/2019,Orsolya,Herbein,BrandThree,Marketing,,,134 Industry Ln,Forest Hill,21050,MD,134 Industry Ln Forest Hill 21050 MD ,39.577225,-76.3706039
+JHU # 03,11/30/2017,3/16/2018,Joshua,Funk,Rehab to Perform,Healthcare,,,1341 Hughes Ford Rd,Frederick,21701,MD,1341 Hughes Ford Rd Frederick 21701 MD ,39.4169565,-77.3807741
+JHU # 10,9/14/2020,12/16/2020,Drena,Bullock,Three Ds Hauling and Construction,Construction,,,1344 Kenton Rd,Parkville,21234,MD,1344 Kenton Rd Parkville 21234 MD ,39.3794669,-76.5665322
+JHU # 14,1/10/2022,4/20/2022,Shanna,Brewton-Tiayon,"Wellbeing Works, LLC",Consulting,,No,13482 Outlet Dr 241,Silver Spring,20904,MD,13482 Outlet Dr 241 Silver Spring 20904 MD ,39.0827,-76.9463197
+JHU # 10,9/14/2020,12/16/2020,Nia,Banks,Beaux Arts Institute of Plastic Surgery,Cosmetic,,,1352 Key Hwy,Baltimore,21230,MD,1352 Key Hwy Baltimore 21230 MD ,39.2744604,-76.6044571
+JHU # 20,1/24/2024,4/18/2024,Kathryn,Ferro,Basal Therapies,,611000,No,13718 Jacobs Rd,Mount Airy,21771,MD,13718 Jacobs Rd Mount Airy 21771 MD ,39.3863704,-77.1832391
+JHU # 13,9/8/2021,12/16/2021,Jennifer,Smith,Jennifer Tardy Consulting,Consulting,,No,13803 URBANA LN,Bowie,20720,MD,13803 URBANA LN Bowie 20720 MD ,38.9687326,-76.7656681
+JHU # 08,9/12/2019,12/13/2019,Tanesia,Barrow,Barrow Wise,Consulting,,,1390 Piccard Dr,Rockville,20850,MD,1390 Piccard Dr Rockville 20850 MD ,39.1071056,-77.1819308
+JHU # 09,1/9/2020,4/24/2020,Christopher,Schafer,Christopher Schafer Clothier,Fashion,,,1400 Aliceanna St,Baltimore,21231,MD,1400 Aliceanna St Baltimore 21231 MD ,39.2836441,-76.5976864
+JHU # 14,1/10/2022,4/20/2022,Elisa,Wells,Sharp Dressed Man,Services,624190,Yes,1400 Aliceanna St,Baltimore,21231,MD,1400 Aliceanna St Baltimore 21231 MD ,39.2836441,-76.5976864
+JHU # 08,9/12/2019,12/13/2019,Nani,Ferreira-mathews,Thread Coffee Roasters,Food & Beverage,,,1400 Greenmount Ave,Baltimore,21202,MD,1400 Greenmount Ave Baltimore 21202 MD ,39.3061384,-76.6089188
+JHU # 18,5/11/2023,8/11/2023,Gina,Duncan,Gina S. Duncan Insurance Agency LLC,,561611,No,1401 Mercantile Lane,Upper Marlboro,20774,MD,1401 Mercantile Lane Upper Marlboro 20774 MD ,38.9093388,-76.8367042
+JHU # 16,9/8/2022,12/9/2022,Matthew,Tarjick,South River Federal Solutions LLC,Consulting,541690,No,1406 James Way # 200,Edgewater,21037,MD,1406 James Way # 200 Edgewater 21037 MD ,38.8880314,-76.5097118
+JHU # 13,9/8/2021,12/16/2021,Shannon,Martin,Health Releaf,Healthcare,,No,1406B Crain Hwy S Ste 308,Glen Burnie,21061,MD,1406B Crain Hwy S Ste 308 Glen Burnie 21061 MD ,39.1483329,-76.6332958
+JHU # 11,1/11/2021,4/21/2021,Lara,Azzam,Team Business,Other,,,1410 Belt St,Baltimore,21230,MD,1410 Belt St Baltimore 21230 MD ,39.2734716,-76.6062631
+JHU # 11,1/11/2021,4/21/2021,Candi,Dailey,Potomac Hospitality Group,Other,,,14207 Old Annapolis Rd,Bowie,20720,MD,14207 Old Annapolis Rd Bowie 20720 MD ,38.9688251,-76.7583598
+JHU # 12,5/10/2021,8/18/2021,Tonya,Robertson,Focused Training Solutions,Services,611000,,14207 Wild Wood Ct,Upper Marlboro,20774,MD,14207 Wild Wood Ct Upper Marlboro 20774 MD ,38.8956457,-76.7597796
+JHU # 16,9/8/2022,12/9/2022,Kirsten,Allen,Brazen Consulting and Accounting,Finance,541219,No,1423 E Lanvale St,Baltimore,21213,MD,1423 E Lanvale St Baltimore 21213 MD ,39.3092634,-76.5991619
+JHU # 16,9/8/2022,12/9/2022,David,Gregory,APTNEXUS,Technology,541512,No,14304 POLLIN ST,Accokeek,20607,MD,14304 POLLIN ST ACCOKEEK 20607 MD ,38.6935984,-76.9691076
+JHU # 10,9/14/2020,12/16/2020,Kamise,Fauconier,Simms Project Management,Services,541600,,14309 Dunwood Valley Dr,Bowie,20721,MD,14309 Dunwood Valley Dr Bowie 20721 MD ,38.9339342,-76.7531847
+JHU # 01,1/18/2017,4/21/2017,Sheila,Brooks,SRB Communications,Marketing,,,1432 K St NW Ste 800,Washington,20005,DC,1432 K St NW Ste 800 Washington 20005 DC ,38.9022474,-77.0333641
+JHU # 18,5/11/2023,8/11/2023,Vernestine,Laughinghouse,"V L Services, Inc. dba Absoulute Organizing Solutions",Services,541614,No,"1439 Rittenhouse Street, NW",Washington,20011,DC,"1439 Rittenhouse Street, NW WASHINGTON 20011 DC ",38.9656171,-77.0352846
+JHU # 17,1/19/2023,4/14/2023,Melody,Yazdani,Melody Yazdani Studios LLC,Retail,541921,No,144 Church St NW,Vienna,22180,VA,144 Church St NW Vienna 22180 VA ,38.9009473,-77.2674053
+JHU # 16,9/8/2022,12/9/2022,LaShelle,Adams-Harris,Adams land llc,Other,535311,No,14410 Woodmore Oaks Ct,Bowie,20721,MD,14410 Woodmore Oaks Ct Bowie 20721 MD ,38.8918066,-76.7542743
+JHU # 09,1/9/2020,4/24/2020,Sherrell,Martin,Nitram Financial Solutions,Finance,,,145 Fleet St Suite 180,Oxon Hill,20745,MD,145 Fleet St Suite 180 Oxon Hill 20745 MD ,38.7845289,-77.0147443
+JHU # 12,5/10/2021,8/18/2021,LaTonya,Hall,Stondoh,Services,541519,,145 W Ostend St # 419,Baltimore,21230,MD,145 W Ostend St # 419 Baltimore 21230 MD ,39.2744074,-76.6177297
+JHU # 05,9/13/2018,12/14/2018,Tina,Young,Quality Compliance and Management Consulting,Consulting,,,14502 Greenview Dr Suite 510,Laurel,20708,MD,14502 Greenview Dr Suite 510 Laurel 20708 MD ,39.08865,-76.8443926
+JHU # 08,9/12/2019,12/13/2019,Jamie,Courtney,CSC Technologies,Services,238990,,14621 Red Lion Dr,Woodbine,21797,MD,14621 Red Lion Dr Woodbine 21797 MD ,39.3332557,-77.0188653
+JHU # 05,9/13/2018,12/14/2018,Colin,Sandy,Sandy Audio Visual,Services,512110,,14625 Baltimore Ave,Laurel,20707,MD,14625 Baltimore Ave Laurel 20707 MD ,39.0904683,-76.8566234
+JHU # 03,11/30/2017,3/16/2018,Odessa,Phillip,Assedo Consulting,Consulting,,,14625 Baltimore Ave Ste 898,Laurel,20707,MD,14625 Baltimore Ave Ste 898 Laurel 20707 MD ,39.0904683,-76.8566234
+JHU # 03,11/30/2017,3/16/2018,Denise,Sullivan,"Urban Green Environmental, LLC",Consulting,,,1476 Reynolds St Ste 100,Baltimore,21230,MD,1476 Reynolds St Ste 100 Baltimore 21230 MD ,39.2680151,-76.5905831
+JHU # 12,5/10/2021,8/18/2021,Tiombe,Paige,Cultivated Inc,Services,459420,,15 E Main St Ste 103,Westminster,21157,MD,15 E Main St Ste 103 Westminster 21157 MD ,39.5749801,-76.995187
+JHU # 14,1/10/2022,4/20/2022,Edwina,Clark,Ultimate Clean Cleaning Service. LLC,Services,561720,No,150 Post Office Rd,Waldorf,20602,MD,150 Post Office Rd Waldorf 20602 MD ,38.6164657,-76.9027654
+JHU # 18,5/11/2023,8/11/2023,Heather,Iliff,Maryland Nonprofits,Not For Profit,541618,No,1500 Union Ave,Baltimore,21012,MD,1500 Union Ave Baltimore 21012 MD ,39.3323015,-76.6408651
+JHU # 20,1/24/2024,4/18/2024,Krystle,Myers,Myers Law Group LLC,Services,541110,No,1500 Wilson Blvd,Arlington,22209,VA,1500 Wilson Blvd Arlington 22209 VA ,38.894044,-77.074771
+JHU # 08,9/12/2019,12/13/2019,India,McCleod,I. McCleod Salon,Cosmetic,,No,1510-1 Reisterstown Rd,Pikesville,21208,MD,1510-1 Reisterstown Rd Pikesville 21208 MD ,39.3775244,-76.7270436
+JHU # 05,9/13/2018,12/14/2018,Kristen,Cooper,Leap Day Media,Services,561900,,1512 Cranwell Rd,Lutherville-timonium,21093,MD,1512 Cranwell Rd Lutherville-timonium 21093 MD ,39.4270996,-76.6087929
+JHU # 05,9/13/2018,12/14/2018,India,Whitlock,Madison Mason Home Group,Sales,,,1515 Reisterstown Rd Suite 200,Baltimore,21208,MD,1515 Reisterstown Rd Suite 200 Baltimore 21208 MD ,39.3782594,-76.7260358
+JHU # 15,5/5/2022,8/5/2022,Nneka,Shelton,Shelton Group CS,Construction,,No,1516 1st St,Glenarden,20706,MD,1516 1st St Glenarden 20706 MD ,38.9312243,-76.859067
+JHU # 01,1/18/2017,4/21/2017,Sheila,Hamilton,"Sheila Lee and Associates, LLC - Learning Everywhere",Other,,,1518 W Pratt St,Baltimore,21223,MD,1518 W Pratt St Baltimore 21223 MD ,39.2855688,-76.6415363
+JHU # 01,1/18/2017,4/21/2017,Chrystal,Boykins,Cuties On Duty,Retail,,,1519 Leslie St,Baltimore,21217,MD,1519 Leslie St Baltimore 21217 MD ,39.306361,-76.64241
+JHU # 18,5/11/2023,8/11/2023,Marcia,Cole,ACB Precision Focus Photography,Services,541921,No,15209 Frederick Road,Rockville,20850,MD,15209 Frederick Road Rockville 20850 MD ,39.105769,-77.1571962
+JHU # 05,9/13/2018,12/14/2018,Pamgrace,Gachenge,iLive Healthcare,Healthcare,,,15245 Shady Grove Rd Suite 280,Rockville,20850,MD,15245 Shady Grove Rd Suite 280 Rockville 20850 MD ,39.1081682,-77.1878136
+JHU # 09,1/9/2020,4/24/2020,Desyree,Dixon,Bolton Therapy and Wellness,Healthcare,,,1534 Bolton St Suit 1,Baltimore,21217,MD,1534 Bolton St Suit 1 Baltimore 21217 MD ,39.3074434,-76.6270328
+JHU # 18,5/11/2023,8/11/2023,Josephia,Rouse,The Law Offices of Josephia Rouse,,541110,No,1537 Light Street,Baltimore,21230,MD,1537 Light Street Baltimore 21230 MD ,39.2718963,-76.6114518
+JHU # 14,1/10/2022,4/20/2022,Bonnie-Love,Douglas,"D2D Creative, LLC",Other,,No,15405 Finchingfield Way,Upper Marlboro,20774,MD,15405 Finchingfield Way Upper Marlboro 20774 MD ,38.8445372,-76.7370929
+JHU # 06,1/17/2019,4/19/2019,Colette,Youngblood,Versatile Business Solutions,Technology,,No,15480 Annapolis Rd Ste 202-185,Bowie,20715,MD,15480 Annapolis Rd Ste 202-185 Bowie 20715 MD ,38.9802474,-76.7344342
+JHU # 05,9/13/2018,12/14/2018,Jamellah,Ellis,Curl Theory,Cosmetic,,No,15480 Annapolis Rd Suite 202-224,Bowie,20715,MD,15480 Annapolis Rd Suite 202-224 Bowie 20715 MD ,38.9802474,-76.7344342
+JHU # 14,1/10/2022,4/20/2022,Gary,Pollard,Pinnacle Network Solutions,Technology,,No,15526 Finchingfield Way,Upper Marlboro,20774,MD,15526 Finchingfield Way Upper Marlboro 20774 MD ,38.8423912,-76.7359543
+JHU # 06,1/17/2019,4/19/2019,Tammie,Monaco,Beck n Call Event Services,Services,561320,,15635 Falls Rd,Sparks Glencoe,21152,MD,15635 Falls Rd Sparks Glencoe 21152 MD ,39.555884,-76.7441567
+JHU # 08,9/12/2019,12/13/2019,Angela,Williams,SPIN Healthcare and IT Solutions,Consulting,,,157 Fleet St Apt 907907,Oxon Hill,20745,MD,157 Fleet St Apt 907907 Oxon Hill 20745 MD ,38.7838525,-77.0152399
+JHU # 08,9/12/2019,12/13/2019,William,Davis,First Priority Cleaning Service,Services,561720,,16 W 25th St,Baltimore,21218,MD,16 W 25th St Baltimore 21218 MD ,39.3180692,-76.6175984
+JHU # 04,4/5/2018,7/20/2018,Mike,Goeller,Brightview Cleaning,Services,561720,,16005 Kenny Rd,Laurel,20707,MD,16005 Kenny Rd Laurel 20707 MD ,39.1089857,-76.8865721
+JHU # 10,9/14/2020,12/16/2020,Kier,Marshall,"Soul-Renity, LLC",Healthcare,,,1601 St Paul St,Baltimore,21202,MD,1601 St Paul St Baltimore 21202 MD ,39.308066,-76.6144533
+JHU # 05,9/13/2018,12/14/2018,Leah,Abrams,L. Abrams and Company,Services,541211,,1601 St Paul St 2nd Floor,Baltimore,21202,MD,1601 St Paul St 2nd Floor Baltimore 21202 MD ,39.308066,-76.6144533
+JHU # 14,1/10/2022,4/20/2022,Danielle,Couick,Magnolia Bluebird,Hospitality,,No,16047 Comprint Circle #117,Gaithersburg,20877,MD,16047 Comprint Circle #117 Gaithersburg 20877 MD ,39.11982,-77.184483
+JHU # 12,5/10/2021,8/18/2021,Joann,Crislip,Integrity Tax and Small Business Solutions,Services,541219,,1610 Professional Blvd Ste G,Crofton,21114,MD,1610 Professional Blvd Ste G Crofton 21114 MD ,39.0192208,-76.7004045
+JHU # 16,9/8/2022,12/9/2022,Rebecca,Winiarski,"Elegant Restoration, Inc.",Construction,236118,No,1615 Robin Cir Ste F,Forest Hill,21050,MD,1615 Robin Cir Ste F Forest Hill 21050 MD ,39.5680147,-76.3644972
+JHU # 19,9/13/2023,12/14/2023,Venus,Ricks,Pho Vital Sign,,621610,No,1615 York Rd,Timonium,21093,MD,1615 York Rd Timonium 21093 MD ,39.4246411,-76.6185717
+JHU # 13,9/8/2021,12/16/2021,Derin,Abass,D2LOGISTICS LLC,Logistics,,No,1629 Benoli Ct,Odenton,21113,MD,1629 Benoli Ct Odenton 21113 MD ,39.105854,-76.7024582
+JHU # 01,1/18/2017,4/21/2017,Alison,Schuch,Fells Point Surf Co,Retail,,,1631 Thames St,Baltimore,21231,MD,1631 Thames St Baltimore 21231 MD ,39.2814119,-76.5936409
+JHU # 05,9/13/2018,12/14/2018,Khari,Parker,Connies Chicken and Waffles,Food & Beverage,,,1640 Aliceanna St,Baltimore,21231,MD,1640 Aliceanna St Baltimore 21231 MD ,39.2841555,-76.593401
+JHU # 09,1/9/2020,4/24/2020,Michelle,Smith,Classiques Hair Designs,Cosmetic,,,1658 Whitehead Ct Suite C,Baltimore,21207,MD,1658 Whitehead Ct Suite C Baltimore 21207 MD ,39.3109916,-76.7408215
+JHU # 20,1/24/2024,4/18/2024,Kaylan,Martin,Blue Umbrella Strategies,,541611,No,1659 Fort Davis St SE,Washington,20020,DC,1659 Fort Davis St SE Washington 20020 DC ,38.867197,-76.9486036
+JHU # 20,1/24/2024,4/18/2024,Ronda,Roemmelt sneider,"Season to Season Horticultural Services, LLC",,561730,No,1665 Homewood Landing Rd,Annapolis,21409,MD,1665 Homewood Landing Rd Annapolis 21409 MD ,39.0154263,-76.4316556
+JHU # 01,1/18/2017,4/21/2017,Sandra,Marley,LPR International,Services,561110,No,16701 Melford Blvd Suite 400,Bowie,20715,MD,16701 Melford Blvd Suite 400 Bowie 20715 MD ,38.9616499,-76.7146053
+JHU # 07,5/16/2019,8/9/2019,Menelaos,Kotsis,Demdio Technologies,Technology,,No,1676 Winchester Rd,Annapolis,21409,MD,1676 Winchester Rd Annapolis 21409 MD ,39.0131837,-76.4957675
+JHU # 10,9/14/2020,12/16/2020,Max,Lents,The Baltimore Spirits Company,Hospitality,,,1700 W 41st St STE 430,Baltimore,21211,MD,1700 W 41st St STE 430 Baltimore 21211 MD ,39.3359718,-76.6444396
+JHU # 10,9/14/2020,12/16/2020,Michael,Muse,Native Sons Inc,Construction,,,1708 Whitehead Rd 103a,Woodlawn,21207,MD,1708 Whitehead Rd 103a Woodlawn 21207 MD ,39.3142037,-76.7423125
+JHU # 04,4/5/2018,7/20/2018,Angel,Hamilton,Dirt Killer Pressure Washers,Retail,,,1708 Whitehead Rd Suite 103,Woodlawn,21207,MD,1708 Whitehead Rd Suite 103 Woodlawn 21207 MD ,39.3142032,-76.7422921
+JHU # 03,11/30/2017,3/16/2018,Rick,Zambrano,REV Cycle Studio,Other,,,1718 Whetstone Way,Baltimore,21230,MD,1718 Whetstone Way Baltimore 21230 MD ,39.268543,-76.600197
+JHU # 19,9/13/2023,12/14/2023,Mia,Orantes,MY Holdings LLC,,541511,No,1725 I St NW,Washington,20006,DC,1725 I St NW Washington 20006 DC ,38.9017073,-77.0403457
+JHU # 18,5/11/2023,8/11/2023,Alicia,Hurtt,Hurtts Enterprise LLC,Services,531210,No,17259 Creekside Drive,Brandywine,20613,MD,17259 Creekside Drive Brandywine 20613 MD ,38.5885655,-76.7476121
+JHU # 03,11/30/2017,3/16/2018,Diane,Knighton,Design With Nature,Services,561730,,17422 Falls Rd,Upperco,21155,MD,17422 Falls Rd Upperco 21155 MD ,39.602974,-76.7753666
+JHU # 05,9/13/2018,12/14/2018,Marilyn,Sparks,White House Nursery,Services,111421,,17422 Falls Rd,Upperco,21155,MD,17422 Falls Rd Upperco 21155 MD ,39.602974,-76.7753666
+JHU # 03,11/30/2017,3/16/2018,Christine,Walsh,Alpha Graphics,Printing,,,1750 Union Ave,Baltimore,21211,MD,1750 Union Ave Baltimore 21211 MD ,39.3332171,-76.6439014
+JHU # 05,9/13/2018,12/14/2018,Kim,Strassner,Words with Boards,Retail,,,1750 Union Ave,Baltimore,21211,MD,1750 Union Ave Baltimore 21211 MD ,39.3332171,-76.6439014
+JHU # 09,1/9/2020,4/24/2020,Vonnya,Pettigrew,Root Branch Productions and Film Academy,Other,,,1750 Union Ave # A2,Baltimore,21211,MD,1750 Union Ave # A2 Baltimore 21211 MD ,39.3332171,-76.6439014
+JHU # 08,9/12/2019,12/13/2019,Stephanie,Bradshaw,SB Creative,Design,,,1750 Union Ave Studio A,Baltimore,21211,MD,1750 Union Ave Studio A Baltimore 21211 MD ,39.3332171,-76.6439014
+JHU # 07,5/16/2019,8/9/2019,Lawrence,Oliva,Second Century Homes,Construction,,,1752 E Lombard St Suite 2,Baltimore,21231,MD,1752 E Lombard St Suite 2 Baltimore 21231 MD ,39.2906041,-76.5919288
+JHU # 20,1/24/2024,4/18/2024,Shaun,Leway,"Core Value Property Management, LLC",,531100,No,1761 Tyrone St,Crofton,21114,MD,1761 Tyrone St Crofton 21114 MD ,38.9957339,-76.6894323
+JHU # 08,9/12/2019,12/13/2019,Theresa,Leatherbury,Rachuba Management,Construction,,,18 Coldwater Ct,Towson,21204,MD,18 Coldwater Ct Towson 21204 MD ,39.4151713,-76.6340072
+JHU # 02,3/22/2017,7/7/2017,Michael,Smith,Smith and Sons LLC,Services,238990,No,1801 Clydesdale Pl NW Apt 711,Washington,20009,DC,1801 Clydesdale Pl NW Apt 711 Washington 20009 DC ,38.9262893,-77.0434625
+JHU # 15,5/5/2022,8/5/2022,Katoshia,Ford,FORD Management Services,Construction,,No,1801 McCormick Dr # 450,Upper Marlboro,20774,MD,1801 McCormick Dr # 450 Upper Marlboro 20774 MD ,38.9148413,-76.8451134
+JHU # 04,4/5/2018,7/20/2018,Matthew,Lee,FASTech,Technology,,,1801 Research Blvd Ste 550,Rockville,20850,MD,1801 Research Blvd Ste 550 Rockville 20850 MD ,39.0979892,-77.1793421
+JHU # 13,9/8/2021,12/16/2021,Kimberley,Alfonso,Results One LLC,Consulting,,No,1809 Parkside Dr NW,Washington,20012,DC,1809 Parkside Dr NW Washington 20012 DC ,38.985147,-77.0436665
+JHU # 08,9/12/2019,12/13/2019,Denis,O'donovan,ProfitComm,Technology,,,1818 Pot Spring Rd Suite 256,Lutherville-timonium,21093,MD,1818 Pot Spring Rd Suite 256 Lutherville-timonium 21093 MD ,39.432649,-76.6054138
+JHU # 06,1/17/2019,4/19/2019,Marie,Gallagher,The Healing Path Massage and Wellness,Services,621399,,1819 Thames St,Baltimore,21231,MD,1819 Thames St Baltimore 21231 MD ,39.2818437,-76.5902287
+JHU # 04,4/5/2018,7/20/2018,cheryl,nichols,Cafe Millwork,Construction,,,1822 Worcester St,Baltimore,21230,MD,1822 Worcester St Baltimore 21230 MD ,39.2752249,-76.6291038
+JHU # 06,1/17/2019,4/19/2019,Gary,Monck,Cispoint,Technology,,,1829 Reisterstown Rd Suite 350,Pikesville,21208,MD,1829 Reisterstown Rd Suite 350 Pikesville 21208 MD ,39.3894395,-76.7377614
+JHU # 10,9/14/2020,12/16/2020,Marlow,Henderson,MAH3LAW,Services,541100,,1829 Reisterstown Rd Suite 350,Pikesville,21208,MD,1829 Reisterstown Rd Suite 350 Pikesville 21208 MD ,39.3894395,-76.7377614
+JHU # 06,1/17/2019,4/19/2019,Keith,Kelley,Kelleys Trucking,Construction,,,1851 Edison Hwy,Baltimore,21213,MD,1851 Edison Hwy Baltimore 21213 MD ,39.3128599,-76.571169
+JHU # 02,3/22/2017,7/7/2017,Jody,Friend,"JLM HR Consulting, LLC",Consulting,,,18520 Office Park Dr,Montgomery Village,20886,MD,18520 Office Park Dr Montgomery Village 20886 MD ,39.1608345,-77.2027934
+JHU # 08,9/12/2019,12/13/2019,Yolanda,Coleman,RIMS Center for Enrichment and Development,Healthcare,,,1895 Brightseat Rd,Hyattsville,20785,MD,1895 Brightseat Rd Hyattsville 20785 MD ,38.9148769,-76.8530333
+JHU # 20,1/24/2024,4/18/2024,Kerryann,Gross,"Evexia, LLC",Healthcare,812191,No,19 Donald Dr,Shrewsbury,17361,PA,19 Donald Dr Shrewsbury 17361 PA ,39.7613669,-76.6809222
+JHU # 05,9/13/2018,12/14/2018,Angela,Johnston-Kidane,Scarlet Covering,Services,813410,,1900 N Broadway Suite 100,Baltimore,21213,MD,1900 N Broadway Suite 100 Baltimore 21213 MD ,39.3125081,-76.5962561
+JHU # 01,1/18/2017,4/21/2017,Nathanial,Badder,Thirty Six Letters,Design,,Yes,1915 E Pratt St Apartment A,Baltimore,21231,MD,1915 E Pratt St Apartment A Baltimore 21231 MD ,39.289161,-76.589795
+JHU # 19,9/13/2023,12/14/2023,Jacqueline,Williams,A Mother's Prayer,,624410,No,1915 Gaither St,Temple Hills,20748,MD,1915 Gaither St Temple Hills 20748 MD ,38.8309456,-76.9687842
+JHU # 15,5/5/2022,8/5/2022,Wen,Yong,Greenergy Electric & Designs Corp,Construction,,No,19500 Amaranth Dr Ste B,Germantown,20874,MD,19500 Amaranth Dr Ste B Germantown 20874 MD ,39.1754922,-77.2526036
+JHU # 06,1/17/2019,4/19/2019,Michelle,Taylor,BETAH Associates,Services,541990,,199 E Montgomery Ave Suite 100,Rockville,20850,MD,199 E Montgomery Ave Suite 100 Rockville 20850 MD ,39.0838611,-77.1493721
+JHU # 20,1/24/2024,4/18/2024,Stephanie,Atha,Choose Hope Womens Center,,813212,No,2000 Willow Ln,Fallston,21047,MD,2000 Willow Ln Fallston 21047 MD ,39.5391605,-76.4355972
+JHU # 05,9/13/2018,12/14/2018,Amanda,Gianotti,Allogram,Manufacturing,,,2003 Greenspring Dr,Lutherville-timonium,21093,MD,2003 Greenspring Dr Lutherville-timonium 21093 MD ,39.4357747,-76.6294932
+JHU # 12,5/10/2021,8/18/2021,Johnetta,Thurston,JDA Management and Consulting Group,Services,541600,,2006 Brigadier Blvd.,Odenton,21113,MD,2006 Brigadier Blvd. Odenton 21113 MD ,39.1079271,-76.7148773
+JHU # 16,9/8/2022,12/9/2022,Cheryl,Robinson,Azusa Solutions,Technology,541690,No,201 High Gables DR Apt 209,Gaithersburg,20878,MD,201 High Gables DR Apt 209 Gaithersburg 20878 MD ,39.1159019,-77.222454
+JHU # 17,1/19/2023,4/14/2023,Nikia,Sweeney,Amani Nicol Wellness,Healthcare,812191,No,201 Milford Mill Rd,Pikesville,21208,MD,201 Milford Mill Rd Pikesville 21208 MD ,39.3670217,-76.7191389
+JHU # 07,5/16/2019,8/9/2019,Ian,Marriott,IGM Innovative Solutions,Services,238210,,201 Prospect Ave,Hagerstown,21742,MD,201 Prospect Ave Hagerstown 21742 MD ,39.6531801,-77.7158788
+JHU # 05,9/13/2018,12/14/2018,Mary cate,Claudias,Charm City Organizers,Services,541614,Yes,2017 Rollingwood Rd,Catonsville,21228,MD,2017 Rollingwood Rd Catonsville 21228 MD ,39.2706862,-76.7618806
+JHU # 12,5/10/2021,8/18/2021,Maria,Randle,DANA Insurance Services Inc,Healthcare,,,202 Blum Ct,Bel Air,21014,MD,202 Blum Ct Bel Air 21014 MD ,39.5288236,-76.3614222
+JHU # 01,1/18/2017,4/21/2017,Barnett,Carroll,Aegis Mechanical Corporation,Construction,,,2056 Lord Baltimore Dr,Woodlawn,21244,MD,2056 Lord Baltimore Dr Woodlawn 21244 MD ,39.3153184,-76.7539493
+JHU # 06,1/17/2019,4/19/2019,Latanya,Holland,Leftys Barbecue Unlimited and Leftys Spices,Hospitality,,,2064 Crain Hwy,Waldorf,20601,MD,2064 Crain Hwy Waldorf 20601 MD ,38.654062,-76.87679
+JHU # 19,9/13/2023,12/14/2023,Heather,Crowder,Heather Crowder Photography LLC,,541920,No,209 West St,Annapolis,21401,MD,209 West St Annapolis 21401 MD ,38.9768559,-76.5006913
+JHU # 01,1/18/2017,4/21/2017,Brian,Schneider,BS P,Advertising,,Yes,21 S Linwood Ave,Baltimore,21224,MD,21 S Linwood Ave Baltimore 21224 MD ,39.2914619,-76.5759239
+JHU # 04,4/5/2018,7/20/2018,Curtis,Funderburk,System Integrity,Technology,,,210 E Lexington St Suite 402,Baltimore,21202,MD,210 E Lexington St Suite 402 Baltimore 21202 MD ,39.2914066,-76.6116901
+JHU # 04,4/5/2018,7/20/2018,John,Palic,Parkwood Construction,Construction,,,210 Timberwood Ave,Silver Spring,20901,MD,210 Timberwood Ave Silver Spring 20901 MD ,39.0220558,-77.0140966
+JHU # 09,1/9/2020,4/24/2020,Quintin,Lathan,Beauty Plus,Retail,,,2107 N Charles St,Baltimore,21218,MD,2107 N Charles St Baltimore 21218 MD ,39.3135871,-76.61647
+JHU # 14,1/10/2022,4/20/2022,Kristian,Knight,SS Cafe LLC,Food & Beverage,,No,2110 E Monument St,Baltimore,21205,MD,2110 E Monument St Baltimore 21205 MD ,39.2988264,-76.5873475
+JHU # 10,9/14/2020,12/16/2020,Char,Wilson,Charles Street Suites,Services,812112,,2113 N Charles St,Baltimore,21218,MD,2113 N Charles St Baltimore 21218 MD ,39.3137063,-76.6164688
+JHU # 13,9/8/2021,12/16/2021,Monique,Caruth,"Dr. Monique J Caruth, LLC",Healthcare,,No,2114 Garden Grove Ln,Bowie,20721,MD,2114 Garden Grove Ln Bowie 20721 MD ,38.9207834,-76.8412277
+JHU # 12,5/10/2021,8/18/2021,Joseph,Wellsey,Inkwell Recording Studios,Services,711510,,2114 N Charles St Ste 201,Baltimore,21218,MD,2114 N Charles St Ste 201 Baltimore 21218 MD ,39.3137871,-76.6171151
+JHU # 10,9/14/2020,12/16/2020,Jose,Campos,Law Offices of Campos & Associates,Services,541110,,2122 University Blvd W,Silver Spring,20902,MD,2122 University Blvd W Silver Spring 20902 MD ,39.0409654,-77.0479236
+JHU # 16,9/8/2022,12/9/2022,Chrissy,Rey,Pongos Interactive,Business Services,54143,No,2141 Priest Bridge Dr Ste 8,Crofton,21114,MD,2141 Priest Bridge Dr Ste 8 Crofton 21114 MD ,38.9881392,-76.6979579
+JHU # 18,5/11/2023,8/11/2023,Matthew,Powell,Bitwise Creative LLC,,541511,No,2142 Misty Meadow Rd.,Finksburg,21048,MD,2142 Misty Meadow Rd. Finksburg 21048 MD ,39.506992,-76.9170515
+JHU # 19,9/13/2023,12/14/2023,Damon,Jones,Nomadic Enterprises,,531390,No,215 N Washington St,Havre de Grace,21078,MD,215 N Washington St Havre de Grace 21078 MD ,39.5492888,-76.089674
+JHU # 09,1/9/2020,4/24/2020,Pasqua,Deckert,Capital Services,Services,541611,,215 Washington Ave,Towson,21204,MD,215 Washington Ave Towson 21204 MD ,39.3982699,-76.6053056
+JHU # 07,5/16/2019,8/9/2019,Andrena,Brown,Dennis Brown Shaolin Wu-Shu Training Center,Other,,,2150 Industrial Pkwy,Silver Spring,20904,MD,2150 Industrial Pkwy Silver Spring 20904 MD ,39.0541453,-76.9684141
+JHU # 18,5/11/2023,8/11/2023,Ellen,Odoi,"Decorelle, LLC",,541410,No,21512 Wilcutt St,Lexington Park,20653,MD,21512 Wilcutt St Lexington Park 20653 MD ,38.2585803,-76.4859435
+JHU # 02,3/22/2017,7/7/2017,Andy,Bartley,Bartley Corp,Construction,,,22 Brinkwood Rd,Brookeville,20833,MD,22 Brinkwood Rd Brookeville 20833 MD ,39.1697512,-77.0094376
+JHU # 15,5/5/2022,8/5/2022,Adrian,Williams,HourGlass Body Contouring Spa,Healthcare,,No,22 W Padonia Rd,Lutherville Timonium,21093,MD,22 W Padonia Rd Lutherville Timonium 21093 MD ,39.4562416,-76.634975
+JHU # 11,1/11/2021,4/21/2021,Jonathan,White,Cashland LLC,Other,,,2201 W Pratt St,Baltimore,21223,MD,2201 W Pratt St Baltimore 21223 MD ,39.2847886,-76.6514012
+JHU # 04,4/5/2018,7/20/2018,ROBIN,BELLE,Road Runner Specialty Group,Healthcare,,,2206 Leesborough Dr,Wheaton-glenmont,20902,MD,2206 Leesborough Dr Wheaton-glenmont 20902 MD ,39.0454787,-77.0507214
+JHU # 08,9/12/2019,12/13/2019,Megan,Elcrat,Present Company,Design,,No,2209 Maryland Ave,Baltimore,21218,MD,2209 Maryland Ave Baltimore 21218 MD ,39.3146574,-76.6178035
+JHU # 07,5/16/2019,8/9/2019,Alex,Aaron,Blank Slate Development,Construction,,,2216 Eutaw Pl Unit A,Baltimore,21217,MD,2216 Eutaw Pl Unit A Baltimore 21217 MD ,39.3109388,-76.6348296
+JHU # 01,1/18/2017,4/21/2017,Ezra,Tilaye,"EZ Group, LLC",Food & Beverage,,Yes,2220 E Union St,Seattle,98122,WA,2220 E Union St Seattle 98122 WA ,47.6131638,-122.3031896
+JHU # 20,1/24/2024,4/18/2024,Lori-Anne,Meyers,Werkberry LLC,,54151,No,223 Farragut Rd,Annapolis,21401,MD,223 Farragut Rd Annapolis 21401 MD ,38.9854948,-76.50964
+JHU # 09,1/9/2020,4/24/2020,Tim,Treanor,Online Video Service,Technology,,,223 Manor Cir,Takoma Park,20912,MD,223 Manor Cir Takoma Park 20912 MD ,38.9783723,-77.0037037
+JHU # 15,5/5/2022,8/5/2022,Mikea,Hugley,Cre8t1v3,Design,,No,225 N Calvert St Apt 1026,Baltimore,21202,MD,225 N Calvert St Apt 1026 Baltimore 21202 MD ,39.2918895,-76.6122981
+JHU # 03,11/30/2017,3/16/2018,Michael,Bosco,"Ops Tech Alliance, LLC",Technology,,,2288 Blue Water Blvd,Odenton,21113,MD,2288 Blue Water Blvd Odenton 21113 MD ,39.1009577,-76.7169519
+JHU # 17,1/19/2023,4/14/2023,Katherine,Dixon,Oh Yes Communications,Marketing,541613,No,2296 Four Seasons Dr,Gambrills,21054,MD,2296 Four Seasons Dr Gambrills 21054 MD ,39.0581811,-76.6947999
+JHU # 11,1/11/2021,4/21/2021,Sharonda,Johnson,"Vida Don, LLC",Other,,,2314 E Joppa Rd,Parkville,21234,MD,2314 E Joppa Rd Parkville 21234 MD ,39.3984521,-76.5373458
+JHU # 16,9/8/2022,12/9/2022,Tanese,Baity,Learn Laugh N Grow,Education,624410,No,232 N Liberty St,Baltimore,21201,MD,232 N Liberty St Baltimore 21201 MD ,39.2927452,-76.6169196
+JHU # 17,1/19/2023,4/14/2023,Titus,Ogunyemi,"ENS Solutions, LLC.",Technology,541512,No,2327 Brooke Grove Rd,Bowie,20721,MD,2327 Brooke Grove Rd Bowie 20721 MD ,38.9225214,-76.8374057
+JHU # 01,1/18/2017,4/21/2017,Kohli,Flick,Becket Hitch,Retail,,,2360 W Joppa Rd Suite 110,Lutherville-timonium,21093,MD,2360 W Joppa Rd Suite 110 Lutherville-timonium 21093 MD ,39.4203034,-76.6687731
+JHU # 05,9/13/2018,12/14/2018,Jocelyn,Gainers,The Family Recovery Program,Services,813319,,"239 N. Gay St., Baltimore",Baltimore,21202,MD,"239 N. Gay St., Baltimore Baltimore 21202 MD ",39.293092,-76.607926
+JHU # 01,1/18/2017,4/21/2017,Heather,Chung,Brown Rice korean grill,Food & Beverage,,,2404 N Charles St,Baltimore,21218,MD,2404 N Charles St Baltimore 21218 MD ,39.3165427,-76.6171436
+JHU # 11,1/11/2021,4/21/2021,Yasmine,Young,Diaspora Salon,Services,812112,,2412 N Charles St,Baltimore,21218,MD,2412 N Charles St Baltimore 21218 MD ,39.3167249,-76.6171697
+JHU # 17,1/19/2023,4/14/2023,Ugur,Altintas,Pizza tempo llc,Food & Beverage,722513,Yes,244 Gold Kettle Dr,Gaithersburg,20878,MD,244 Gold Kettle Dr Gaithersburg 20878 MD ,39.1173665,-77.213046
+JHU # 10,9/14/2020,12/16/2020,Scott,Sanders,Tobacco Barn Distillery,Hospitality,,,24460 Hollywood Rd,Hollywood,20636,MD,24460 Hollywood Rd Hollywood 20636 MD ,38.3385267,-76.5851468
+JHU # 18,5/11/2023,8/11/2023,Brendan,Glackin,"Glackin Physiotherapy, LLC",,621340,No,247 S Robinson Street,Baltimore,21224,MD,247 S Robinson Street Baltimore 21224 MD ,39.289179,-76.5722646
+JHU # 05,9/13/2018,12/14/2018,Christina,Connelly,IllumineEight Marketing and PR,Marketing,,,25 E 4th St,Frederick,21701,MD,25 E 4th St Frederick 21701 MD ,39.4190831,-77.4089745
+JHU # 05,9/13/2018,12/14/2018,Tabitha,Richardson,Premier Homes Realty,Sales,,,25 Hooks Ln Suite 300,Baltimore,21208,MD,25 Hooks Ln Suite 300 Baltimore 21208 MD ,39.3879361,-76.7339595
+JHU # 20,1/24/2024,4/18/2024,Stephanie,Bagley,SCB Management Solutions Inc.,,541611,No,250 President St Unit 606 Unit 606,Baltimore,21202,MD,250 President St Unit 606 Unit 606 Baltimore 21202 MD ,39.2858189,-76.6037056
+JHU # 19,9/13/2023,12/14/2023,Theressa,Thomas,Resolution Think LLC,,541519,No,2501 Marshall Ave,Newport News,23607,VA,2501 Marshall Ave Newport News 23607 VA ,36.9836649,-76.4161954
+JHU # 08,9/12/2019,12/13/2019,David,Galbreath,Delta Lumber,Retail,,,2501 Whiteford Rd,Whiteford,21160,MD,2501 Whiteford Rd Whiteford 21160 MD ,39.7130472,-76.3499381
+JHU # 13,9/8/2021,12/16/2021,Shadeed,Eleazer,Managed Path Solutions,Technology,,No,2519 Cedar Dr,Baltimore,21207,MD,2519 Cedar Dr Baltimore 21207 MD ,39.3227401,-76.7138939
+JHU # 20,1/24/2024,4/18/2024,Malka,Frankel,Malka Designs,,541400,No,2519 Farringdon Rd,Baltimore,21209,MD,2519 Farringdon Rd Baltimore 21209 MD ,39.3734586,-76.6841484
+JHU # 18,5/11/2023,8/11/2023,Gloria,Aderinokun,MADISON AVENUE SUPPORT SERVICES INC,,624229,No,2555 Madison Ave,BALTIMORE,21217,MD,2555 MADISON AVE BALTIMORE 21217 MD ,39.3148928,-76.6396307
+JHU # 09,1/9/2020,4/24/2020,Matt,Kelley,Human Being Productions,Services,711510,,2601 Greenmount Ave,Baltimore,21218,MD,2601 Greenmount Ave Baltimore 21218 MD ,39.3197992,-76.6092232
+JHU # 20,1/24/2024,4/18/2024,Gayle,Galbraith,"The Federal Brewing Company, LLC",,311900,No,2639 Choptank Main St,Preston,21655,MD,2639 Choptank Main St Preston 21655 MD ,38.6809006,-75.9480363
+JHU # 03,11/30/2017,3/16/2018,Jandie,Turner,Acuity Sports,Logistics,,,2676 Golf Island Rd,Ellicott City,21042,MD,2676 Golf Island Rd Ellicott City 21042 MD ,39.2962183,-76.8801253
+JHU # 15,5/5/2022,8/5/2022,Randy,Hallman,Canton Chiropractic and Physical Therapy,Healthcare,,No,2700 Fait Ave,Baltimore,21224,MD,2700 Fait Ave Baltimore 21224 MD ,39.2832991,-76.578256
+JHU # 08,9/12/2019,12/13/2019,Leonardo,Guevara,Bantam Contracting,Construction,,,2713 Kildaire Dr,Baltimore,21234,MD,2713 Kildaire Dr Baltimore 21234 MD ,39.3669833,-76.5560239
+JHU # 09,1/9/2020,4/24/2020,Marcelle,Folk,Wine Key Experience,Hospitality,,No,276 5th St,Lothian,20711,MD,276 5th St Lothian 20711 MD ,38.814443,-76.7003993
+JHU # 19,9/13/2023,12/14/2023,Duriel,Barnes,The Chosen Chef Catering & Events,Food & Beverage,722320,No,2800 10th St NE,Washington,20017,DC,2800 10th St NE WASHINGTON 20017 DC ,38.9258183,-76.9927669
+JHU # 17,1/19/2023,4/14/2023,Crystal,Ward,"For Our Children, LLC",Education,611710,No,2804 Trotter Park Ln,Lanham,20706,MD,2804 Trotter Park Ln Lanham 20706 MD ,38.9283044,-76.8455402
+JHU # 07,5/16/2019,8/9/2019,Jacqueline,Mays,Jacquie Ohs Hair Salon,Cosmetic,,,2816 Spiral Ln,Bowie,20715,MD,2816 Spiral Ln Bowie 20715 MD ,38.9670383,-76.7377492
+JHU # 04,4/5/2018,7/20/2018,Jonelle,Anamelechi,Childrens Choice Pediatric Dentistry and Orthodontics,Healthcare,,,2821 12th St NE,Washington,20017,DC,2821 12th St NE Washington 20017 DC ,38.9261671,-76.9902142
+JHU # 03,11/30/2017,3/16/2018,Seth,Pritchett,AMRCSS,Technology,,,2829 Linwood Ave,Parkville,21234,MD,2829 Linwood Ave Parkville 21234 MD ,39.3762773,-76.54293
+JHU # 12,5/10/2021,8/18/2021,Elise,Elfman,Unitec Distribution Systems,Services,315210,,289 E Green St,Westminster,21157,MD,289 E Green St Westminster 21157 MD ,39.565978,-76.9879631
+JHU # 07,5/16/2019,8/9/2019,Maurice,Honeyblue,Five Star Quality Remodeling,Construction,,,29 Tanglewood Rd,Catonsville,21228,MD,29 Tanglewood Rd Catonsville 21228 MD ,39.2711372,-76.7141591
+JHU # 06,1/17/2019,4/19/2019,Dennis,Powell,Butter Pat Industries,Retail,,,29000 Information Ln,Easton,21601,MD,29000 Information Ln Easton 21601 MD ,38.8132847,-76.0701674
+JHU # 04,4/5/2018,7/20/2018,Sharon,Moore,Watkins Security Agency,Security,,,2901 Druid Park Dr,Baltimore,21215,MD,2901 Druid Park Dr Baltimore 21215 MD ,39.3234252,-76.6599761
+JHU # 09,1/9/2020,4/24/2020,Robin,Truiett-Theodorson,Banner Neighborhoods Community Corp,Other,,,2911 Pulaski Hwy,Baltimore,21224,MD,2911 Pulaski Hwy Baltimore 21224 MD ,39.2950834,-76.5754534
+JHU # 04,4/5/2018,7/20/2018,Dave,Carberry,Enradius,Advertising,,,2920 O'Donnell St,Baltimore,21224,MD,2920 O'Donnell St Baltimore 21224 MD ,39.2805365,-76.574648
+JHU # 02,3/22/2017,7/7/2017,Aisha,Dorn,Lifeline Environmental LLC,Construction,,,3 Cree Ct,Randallstown,21133,MD,3 Cree Ct Randallstown 21133 MD ,39.389042,-76.823369
+JHU # 07,5/16/2019,8/9/2019,Brenda,McChriston,Spectrum HR Solutions,Services,541612,,300 E Lombard St Suite 840,Baltimore,21202,MD,300 E Lombard St Suite 840 Baltimore 21202 MD ,39.2889074,-76.609903
+JHU # 03,11/30/2017,3/16/2018,David,Brashear,Altus Technology Solutions,Technology,,,300 Fairfield Dr,Severn,21144,MD,300 Fairfield Dr Severn 21144 MD ,39.0936401,-76.685636
+JHU # 09,1/9/2020,4/24/2020,Al,Britt,Britt Enterprises,Services,561210,,300 Hillsboro Dr,Silver Spring,20902,MD,300 Hillsboro Dr Silver Spring 20902 MD ,39.0409149,-77.0143964
+JHU # 08,9/12/2019,12/13/2019,Patricia,Veney,Veney Financial Group,Finance,,,300 Red Brook Blvd Ste 110,Owings Mills,21117,MD,300 Red Brook Blvd Ste 110 Owings Mills 21117 MD ,39.4126694,-76.8020259
+JHU # 01,1/18/2017,4/21/2017,Leslie,Rashid,D and L Cleanup,Services,561720,,3000 Washington Blvd,Baltimore,21230,MD,3000 Washington Blvd Baltimore 21230 MD ,39.2601551,-76.6602546
+JHU # 12,5/10/2021,8/18/2021,Eric,Chapman,Cygile,Consulting,,,3001 Northern Dancer Rd,Bowie,20721,MD,3001 Northern Dancer Rd Bowie 20721 MD ,38.9301582,-76.7576678
+JHU # 14,1/10/2022,4/20/2022,Iyonna,Woods,FANCY FREE HAIR & SKIN,Cosmetic,,No,3004 N Hilton St,Baltimore,21216,MD,3004 N Hilton St Baltimore 21216 MD ,39.3210758,-76.6734022
+JHU # 11,1/11/2021,4/21/2021,Tiffany,Lewis,Pet and Home Care,Services,812910,,3025 Averley Rd,Ijamsville,21754,MD,3025 Averley Rd Ijamsville 21754 MD ,39.3074928,-77.2808651
+JHU # 06,1/17/2019,4/19/2019,Pattie,Sassano,FITTWOOrder,Services,812990,,303 Allegheny Ave,Towson,21204,MD,303 Allegheny Ave Towson 21204 MD ,39.4020094,-76.60888
+JHU # 13,9/8/2021,12/16/2021,Theresa,Marable,No limit communications too inc,Technology,,No,3048 greenmount ave,baltimore,21218,MD,3048 greenmount ave baltimore 21218 MD ,39.3259823,-76.6096412
+JHU # 05,9/13/2018,12/14/2018,Jeanmarie,Richardson,The Digital Architects,Technology,,,305 Steamboat Ave,Queenstown,21658,MD,305 Steamboat Ave Queenstown 21658 MD ,38.9926462,-76.1588067
+JHU # 12,5/10/2021,8/18/2021,Carrie,Krug,TO THE CORE Physical Therapy and Conditioning LLC,Healthcare,,,305 W Chesapeake Ave Ste L20,Baltimore,21204,MD,305 W Chesapeake Ave Ste L20 Baltimore 21204 MD ,39.3996775,-76.6098444
+JHU # 06,1/17/2019,4/19/2019,Edwina,Arenas,Capitol Kettle Corn,Food & Beverage,,,3062 Mower Ct,Fort Meade,20755,MD,3062 Mower Ct Fort Meade 20755 MD ,39.1160025,-76.7401151
+JHU # 01,1/18/2017,4/21/2017,Jimmy,Stewart,Legacy Builders and Construction Services Inc,Construction,,,312 N Charles St Suite 400,Baltimore,21201,MD,312 N Charles St Suite 400 Baltimore 21201 MD ,39.2928887,-76.6155703
+JHU # 14,1/10/2022,4/20/2022,Arland,Preston,"Star Element Restoration, LLC",Construction,,No,312 Taylor Cir,Grovetown,30813,GA,312 Taylor Cir Grovetown 30813 GA ,33.4372491,-82.1853936
+JHU # 20,1/24/2024,4/18/2024,Arold,Jacques,"Jax Media Design Group, LLC",,541510,No,3147 Franklin Ct,Waldorf,20602,MD,3147 Franklin Ct Waldorf 20602 MD ,38.6104702,-76.8940446
+JHU # 20,1/24/2024,4/18/2024,Silvio,Renzi,Previse Solutions LLC,,541511,No,320 Thaxton St,Gaithersburg,20878,MD,320 Thaxton St Gaithersburg 20878 MD ,39.1234261,-77.245456
+JHU # 20,1/24/2024,4/18/2024,Lennette,Abad,Abad & Company,,541613,No,3204 Batavia Ave Apt 2 Apt 2,Baltimore,21214,MD,3204 Batavia Ave Apt 2 Apt 2 Baltimore 21214 MD ,39.3478196,-76.561606
+JHU # 05,9/13/2018,12/14/2018,Dawn,Sangley,Spry Design,Design,,,3218 Timberfield Ln,Pikesville,21208,MD,3218 Timberfield Ln Pikesville 21208 MD ,39.3810133,-76.7010195
+JHU # 09,1/9/2020,4/24/2020,Andrew,Morsberger,Minuteman Press,Printing,,,3220 O'Donnell St,Baltimore,21224,MD,3220 O'Donnell St Baltimore 21224 MD ,39.2805797,-76.5704854
+JHU # 14,1/10/2022,4/20/2022,Justin,Shaw,"Shaws Covenant, L.L.C.",Retail,,No,326 Saint Paul St,Baltimore,21202,MD,326 Saint Paul St Baltimore 21202 MD ,39.2937858,-76.6143903
+JHU # 11,1/11/2021,4/21/2021,Helen,Gant,"Gant Global Services (GGS), Inc",Other,,,3261 Old Washington Rd Ste 2020,Waldorf,20602,MD,3261 Old Washington Rd Ste 2020 Waldorf 20602 MD ,38.6222039,-76.9113469
+JHU # 10,9/14/2020,12/16/2020,Latonya,Turnage,Elite Secrets Bridal,Retail,,,330 N Charles St,Baltimore,21201,MD,330 N Charles St Baltimore 21201 MD ,39.293542,-76.6157057
+JHU # 14,1/10/2022,4/20/2022,Jasmine,Norton,The Urban Oyster,Food & Beverage,,No,3300 Clipper Mill Rd,Baltimore,21211,MD,3300 Clipper Mill Rd Baltimore 21211 MD ,39.3269303,-76.6368472
+JHU # 15,5/5/2022,8/5/2022,Joseph,Wight,Wight Tea Co.,Food & Beverage,,No,3300 Clipper Mill Rd,Baltimore,21211,MD,3300 Clipper Mill Rd Baltimore 21211 MD ,39.3269303,-76.6368472
+JHU # 07,5/16/2019,8/9/2019,Angela,Fray,Dat Jerk Caribbean Chargrill,Food & Beverage,,,3301 Dorstone Pl,Upper Marlboro,20774,MD,3301 Dorstone Pl Upper Marlboro 20774 MD ,38.8432941,-76.7362714
+JHU # 01,1/18/2017,4/21/2017,Tony,Hill,Edwards and Hill Office Furniture,Sales,,,3306 Royal Fern Way,Milford Mill,21244,MD,3306 Royal Fern Way Milford Mill 21244 MD ,39.3514538,-76.7842542
+JHU # 05,9/13/2018,12/14/2018,Lolita,Munir,Sterling Optical,Healthcare,,,3338 Choptank Ave,Middle River,21220,MD,3338 Choptank Ave Middle River 21220 MD ,39.312806,-76.3952526
+JHU # 09,1/9/2020,4/24/2020,Martin,Block,Kesem Technology,Technology,,,3348 Military Rd NW,Washington,20015,DC,3348 Military Rd NW Washington 20015 DC ,38.9608434,-77.068682
+JHU # 10,9/14/2020,12/16/2020,Etta,Edwards,E3 Management Consulting,Services,541990,,3355 Oak W Dr,Ellicott City,21043,MD,3355 Oak W Dr Ellicott City 21043 MD ,39.280731,-76.8057606
+JHU # 15,5/5/2022,8/5/2022,Bergina,Isbell,"Led Life, LLC",Healthcare,,No,3355 St Johns Ln Ste F,Ellicott CIty,21042,MD,3355 St Johns Ln Ste F Ellicott CIty 21042 MD ,39.2777634,-76.8251537
+JHU # 09,1/9/2020,4/24/2020,Sunny,Gaynor,Affluent Living,Healthcare,,,3383 Lord Baltimore Dr,Milford Mill,21244,MD,3383 Lord Baltimore Dr Milford Mill 21244 MD ,39.3429528,-76.7490499
+JHU # 04,4/5/2018,7/20/2018,Sandy,Stephens,Cytherian,Technology,,,339 Buschs Frontage Rd,Annapolis,21409,MD,339 Buschs Frontage Rd Annapolis 21409 MD ,39.0267502,-76.4540286
+JHU # 05,9/13/2018,12/14/2018,Brett,Linnenkohl,Impact Clinics,Other,,Yes,3400 Chestnut Ave,Baltimore,21211,MD,3400 Chestnut Ave Baltimore 21211 MD ,39.3287716,-76.6295428
+JHU # 11,1/11/2021,4/21/2021,Sonya,Hopson,Sage Services Group LLC,Other,,,3400 Nottinghill Ct,Bowie,20716,MD,3400 Nottinghill Ct Bowie 20716 MD ,38.9361467,-76.7408131
+JHU # 17,1/19/2023,4/14/2023,Samuel,Rozolem,ServiceMaster Janitorial By ASAP,Other,561720,No,3466 Orange Grove Ct,Ellicott City,21043,MD,3466 Orange Grove Ct Ellicott City 21043 MD ,39.2761883,-76.8111647
+JHU # 18,5/11/2023,8/11/2023,Mercedes,McCladdie,AMSA Creative Marketing LLC,Marketing,512110,No,3500 Boston St.,Baltimore,21224,MD,3500 Boston St. Baltimore 21224 MD ,39.2777343,-76.5670819
+JHU # 20,1/24/2024,4/18/2024,Dr. stephanie,Overton stanard,"SOS Human Capital Solutions, LLC",Consulting,541990,No,3502 Kidder Rd,Clinton,20735,MD,3502 Kidder Rd Clinton 20735 MD ,38.7143974,-76.9470117
+JHU # 06,1/17/2019,4/19/2019,Kathleen,Feuerstein,Gilah Press and Design,Printing,,,3506 Ash St,Baltimore,21211,MD,3506 Ash St Baltimore 21211 MD ,39.3291792,-76.6399567
+JHU # 20,1/24/2024,4/18/2024,Kacey,Stafford,"Found Studio, LLC",,455219,No,3507 Woodlea Ave,Baltimore,21214,MD,3507 Woodlea Ave Baltimore 21214 MD ,39.3421139,-76.5610827
+JHU # 17,1/19/2023,4/14/2023,Enriqueta,Morante,Morante Cleaning Service,,561720,No,3515 Kenyon Ave,Baltimore,21213,MD,3515 Kenyon Ave Baltimore 21213 MD ,39.3202795,-76.5632484
+JHU # 14,1/10/2022,4/20/2022,Charles,Rush,RushIT LLC,Technology,,No,3520 Corn Stream Rd,Randallstown,21133,MD,3520 Corn Stream Rd Randallstown 21133 MD ,39.3701316,-76.8215012
+JHU # 09,1/9/2020,4/24/2020,Litsa,Williams,Whats Your Grief,Education,,,3600 Roland Ave Floor 3,Baltimore,21211,MD,3600 Roland Ave Floor 3 Baltimore 21211 MD ,39.3312997,-76.6328955
+JHU # 12,5/10/2021,8/18/2021,Caprice,Ayers,JuneGem Technologies Inc,Technology,,,3601 Hamilton St Ste 201,Hyattsville,20782,MD,3601 Hamilton St Ste 201 Hyattsville 20782 MD ,38.9540307,-76.9581988
+JHU # 11,1/11/2021,4/21/2021,Suzanne,Russell,Russell Residence,Other,,,3608 Baskerville Dr,Bowie,20721,MD,3608 Baskerville Dr Bowie 20721 MD ,38.9397181,-76.806312
+JHU # 07,5/16/2019,8/9/2019,Connie,Wax,Medical Claims Solutions,Services,561490,,3635 Old Court Rd Suite 403,Pikesville,21208,MD,3635 Old Court Rd Suite 403 Pikesville 21208 MD ,39.379036,-76.7202608
+JHU # 01,1/18/2017,4/21/2017,Cheo,Hurley,THG Companies LLC,Construction,,,3707 Edgewood Rd Suite 1,Baltimore,21215,MD,3707 Edgewood Rd Suite 1 Baltimore 21215 MD ,39.329538,-76.67222
+JHU # 03,11/30/2017,3/16/2018,Brandon,Johnson,Consider It Done Construction,Construction,,,3709 HILLSDALE RD,Baltimore,21207,MD,3709 HILLSDALE RD Baltimore 21207 MD ,39.3331987,-76.6927773
+JHU # 20,1/24/2024,4/18/2024,Salima,Rabb,"PJC Construction, LLC",,238990,No,3726 Ferndale Ave,Baltimore,21207,MD,3726 Ferndale Ave Baltimore 21207 MD ,39.3363438,-76.6991044
+JHU # 03,11/30/2017,3/16/2018,Tony,Crane,Efficient Home LLC,Construction,,,3905 National Drive,Burtonsville,20866,MD,3905 National Drive Burtonsville 20866 MD ,39.1125952,-76.930951
+JHU # 06,1/17/2019,4/19/2019,Carlton,Carrington,Mi Casa Es Su Casa,Services,813319,,3921 Old York Rd,Baltimore,21218,MD,3921 Old York Rd Baltimore 21218 MD ,39.337925,-76.6074483
+JHU # 19,9/13/2023,12/14/2023,Ayisha,Thompson,Envision Creative A.R.T,,541613,No,4 Pickersgill Square,Owings Mills,21117,MD,4 Pickersgill Square Owings Mills 21117 MD ,39.3998484,-76.7496976
+JHU # 14,1/10/2022,4/20/2022,Jenna,Reese,"Connect Centric, LLC",Consulting,,No,400 East Pratt Street Ste 846,Baltimore,21202,MD,400 East Pratt Street Ste 846 Baltimore 21202 MD ,39.2869874,-76.6091825
+JHU # 14,1/10/2022,4/20/2022,Krystle,Brown,Prestige Practice Management & IT Services,Technology,,No,4000 Gold Hill Rd,Owings Mills,21117,MD,4000 Gold Hill Rd Owings Mills 21117 MD ,39.4101325,-76.8053399
+JHU # 18,5/11/2023,8/11/2023,Brandon,Lee,Snap Happy Photo Booth,,541922,No,4005 Pinewood Ave,Baltimore,21206,MD,4005 Pinewood Ave Baltimore 21206 MD ,39.3551561,-76.5327893
+JHU # 07,5/16/2019,8/9/2019,Brian,David,Terrapin Transportation Services,Services,488990,,4013 Van Buren St,University Park,20782,MD,4013 Van Buren St University Park 20782 MD ,38.9749947,-76.9484956
+JHU # 18,5/11/2023,8/11/2023,Gary,Royster,Je Transporte Hauling & Trucking LLC,,484210,No,4023 Biddison Lane,Baltimore,21206,MD,4023 Biddison Lane Baltimore 21206 MD ,39.3375358,-76.5541486
+JHU # 07,5/16/2019,8/9/2019,Margarita,Dilone,Crystal Insurance Agency,Services,524290,,4024 Adams Dr,Silver Spring,20902,MD,4024 Adams Dr Silver Spring 20902 MD ,39.0461508,-77.0805271
+JHU # 18,5/11/2023,8/11/2023,Judith,Walker,Nurse Lynx Inc,Healthcare,561320,No,405 North Center Street,Westminster,21157,MD,405 North Center Street Westminster 21157 MD ,39.5739472,-76.9836428
+JHU # 04,4/5/2018,7/20/2018,Fernando,Parada,Lago Contracting,Construction,,,4109 Eder Rd,Dundalk,21222,MD,4109 Eder Rd Dundalk 21222 MD ,39.2638739,-76.4676259
+JHU # 19,9/13/2023,12/14/2023,Dan,Cenidoza,Be-More Training LLC,,812990,No,4132 E Joppa Rd,Nottingham,21236,MD,4132 E Joppa Rd Nottingham 21236 MD ,39.3993427,-76.4825436
+JHU # 06,1/17/2019,4/19/2019,Kelly,Lindow,CityScape Engineering,Design,,,4138 Roland Ave,Baltimore,21211,MD,4138 Roland Ave Baltimore 21211 MD ,39.3396562,-76.634335
+JHU # 11,1/11/2021,4/21/2021,Daniel,Deal,Kompletely Kustom Marine Inc.,Other,,,4157 Mountain Rd,Pasadena,21122,MD,4157 Mountain Rd Pasadena 21122 MD ,39.1205084,-76.5160012
+JHU # 18,5/11/2023,8/11/2023,Dorothy,Kolb,DK EAST LLC,Finance,541219,No,4157 Mountain Rd,Pasadena,21122,MD,4157 Mountain Rd Pasadena 21122 MD ,39.1205084,-76.5160012
+JHU # 03,11/30/2017,3/16/2018,Samuel,Leiter,Live Sound Co.,Services,711320,Yes,416 S Conococheague St,Williamsport,21795,MD,416 S Conococheague St Williamsport 21795 MD ,39.5913887,-77.8205194
+JHU # 07,5/16/2019,8/9/2019,Neil,Ingram,Preferred Cleaning Janitorial Service,Services,561720,,4207 Furley Ave,Baltimore,21206,MD,4207 Furley Ave Baltimore 21206 MD ,39.3319563,-76.558679
+JHU # 02,3/22/2017,7/7/2017,Beverly,Williams,"Sue-Anns Office Supply, Inc",Wholesale,,,4211 Old Milford Mill Rd,Pikesville,21208,MD,4211 Old Milford Mill Rd Pikesville 21208 MD ,39.3635556,-76.716776
+JHU # 14,1/10/2022,4/20/2022,Maiya,Dacey,Maiya Kathryn Design,Construction,,No,4213 Jefferson St,Hyattsville,20781,MD,4213 Jefferson St Hyattsville 20781 MD ,38.9549161,-76.9435065
+JHU # 19,9/13/2023,12/14/2023,Christina,Brunyate,Domesticity,,455219,No,4313 Harford Rd,Baltimore,21214,MD,4313 Harford Rd Baltimore 21214 MD ,39.3388249,-76.5730918
+JHU # 16,9/8/2022,12/9/2022,Julianne,Weiner,Sonic Enterprises LLC,Retail,541890,No,435 E Diamond Ave Ste E,Gaithersburg,20877,MD,435 E Diamond Ave Ste E Gaithersburg 20877 MD ,39.1414303,-77.1860026
+JHU # 03,11/30/2017,3/16/2018,Boret,Rose,"Up In Smoke Caterers, LLC",Food & Beverage,,,4354 Mary Ridge Dr,Randallstown,21133,MD,4354 Mary Ridge Dr Randallstown 21133 MD ,39.3831609,-76.7680763
+JHU # 19,9/13/2023,12/14/2023,Lisa,Fuller,Fuller Enterprises LLC,,524210,No,438 S Main St,Bel Air,21014,MD,438 S Main St Bel Air 21014 MD ,39.5315841,-76.3445813
+JHU # 07,5/16/2019,8/9/2019,Phil,Bunte,PriorService dot com,Retail,,,4401 Eastern Ave Suite 45-5A,Baltimore,21224,MD,4401 Eastern Ave Suite 45-5A Baltimore 21224 MD ,39.2849634,-76.5595894
+JHU # 02,3/22/2017,7/7/2017,Tuesday,WIlliams,"2SDAY International, LLC",Consulting,,,4410 Bedford Pl,Baltimore,21218,MD,4410 Bedford Pl Baltimore 21218 MD ,39.3452231,-76.6208953
+JHU # 09,1/9/2020,4/24/2020,Raphael,Denbow,Portera Rehabilitation,Healthcare,,,4467 Old Branch Ave Suite 103,Temple Hills,20748,MD,4467 Old Branch Ave Suite 103 Temple Hills 20748 MD ,38.8297023,-76.9328895
+JHU # 08,9/12/2019,12/13/2019,Brian,Hammond,BLE Training,Services,541600,,4475 Doncaster Dr,Ellicott City,21043,MD,4475 Doncaster Dr Ellicott City 21043 MD ,39.24621,-76.7843838
+JHU # 09,1/9/2020,4/24/2020,Erica,Paul,Chesapeake Home Health Care,Healthcare,,,4500 Forbes Blvd 110,Lanham,20706,MD,4500 Forbes Blvd 110 Lanham 20706 MD ,38.9511417,-76.8343
+JHU # 12,5/10/2021,8/18/2021,Robyn,Short,All Things Creative LLC,Services,541430,,4500 Forbes Blvd Ste 200-E7,Glenarden,20706,MD,4500 Forbes Blvd Ste 200-E7 Glenarden 20706 MD ,38.9511305,-76.8343007
+JHU # 01,1/18/2017,4/21/2017,Janice,Vieira,"JDos Internationale, Inc.",Construction,,,4506 14th St NW,Washington,20011,DC,4506 14th St NW Washington 20011 DC ,38.9454291,-77.0330255
+JHU # 20,1/24/2024,4/18/2024,Patrice,Watson,"The IEP TEAM, LLC",Education,541600,No,4506 Myles Ct,Upper Marlboro,20772,MD,4506 Myles Ct Upper Marlboro 20772 MD ,38.8295894,-76.7850463
+JHU # 01,1/18/2017,4/21/2017,Aleksandra,Bogunovic,"Aerothreads, Inc.",Design,,,4511 Knox Rd Suite 102,College Park,20740,MD,4511 Knox Rd Suite 102 College Park 20740 MD ,38.980322,-76.9364534
+JHU # 19,9/13/2023,12/14/2023,Lisa,Hardware,"Vaileron, LLC (formerly SOHA technologies)",,541512,No,4541 Dustin Rd,Burtonsville,20866,MD,4541 Dustin Rd Burtonsville 20866 MD ,39.1211696,-76.9164065
+JHU # 04,4/5/2018,7/20/2018,Chiko,Abengowe,Perfect Office Solutions,Services,531310,,4600 Powder Mill Rd Suite 450,Beltsville,20705,MD,4600 Powder Mill Rd Suite 450 Beltsville 20705 MD ,39.046036,-76.9132427
+JHU # 08,9/12/2019,12/13/2019,Charlisa,Watson,CRW and Associates,Consulting,,No,4601 Presidents Dr Suite 232,Lanham,20706,MD,4601 Presidents Dr Suite 232 Lanham 20706 MD ,38.95293,-76.8314621
+JHU # 11,1/11/2021,4/21/2021,Cristian,Leon,"LMR Group, LLC",Other,,,4620 N Park Ave Apt 107W,Chevy Chase,20815,MD,4620 N Park Ave Apt 107W Chevy Chase 20815 MD ,38.9630123,-77.0925347
+JHU # 17,1/19/2023,4/14/2023,Phil,Kendall,"Ascend Mental Health, LLC",,621330,No,4635 Falls Rd,Baltimore,21209,MD,4635 Falls Rd Baltimore 21209 MD ,39.3455596,-76.6406523
+JHU # 05,9/13/2018,12/14/2018,Kevin,Robinson,Bellwether Insurance Partners,Services,524210,,47 E All Saints St,Frederick,21701,MD,47 E All Saints St Frederick 21701 MD ,39.4119186,-77.4089648
+JHU # 12,5/10/2021,8/18/2021,Katie,Byrd,Clarksburg Plumbing LLC,Services,238220,,4701 Griffith Rd,Mount Airy,21771,MD,4701 Griffith Rd Mount Airy 21771 MD ,39.3538356,-77.1635264
+JHU # 06,1/17/2019,4/19/2019,David,Morley,Zinnia Films,Design,,,4708 Harford Rd Ste 23,Baltimore,21214,MD,4708 Harford Rd Ste 23 Baltimore 21214 MD ,39.3438622,-76.5685326
+JHU # 14,1/10/2022,4/20/2022,Aneka,Winstead,WATT Business Solutions,Finance,,No,4709 Hartford Rd,Baltimore,21214,MD,4709 Hartford Rd Baltimore 21214 MD ,39.3433154,-76.5681235
+JHU # 07,5/16/2019,8/9/2019,Kimberly,Boone,Hope Floats,Healthcare,,,4709 Redwing Rd,Bethesda,20817,MD,4709 Redwing Rd Bethesda 20817 MD ,38.97117,-77.1256484
+JHU # 04,4/5/2018,7/20/2018,Bob,Gillespie,Propr Design,Marketing,,,4717 Harford Rd 2 Floor Front,Baltimore,21214,MD,4717 Harford Rd 2 Floor Front Baltimore 21214 MD ,39.3437813,-76.5680307
+JHU # 14,1/10/2022,4/20/2022,Antoine,Hutchinson,Fabpro Technologies,Manufacturing,,No,4764 Hollins Ferry Rd,Halethorpe,21227,MD,4764 Hollins Ferry Rd Halethorpe 21227 MD ,39.2289579,-76.6854057
+JHU # 20,1/24/2024,4/18/2024,Matthew,Onojafe,"Jafe Cycling,llc",,451110,No,4800 Deanwood Dr,Capitol Heights,20743,MD,4800 Deanwood Dr Capitol Heights 20743 MD ,38.9069569,-76.9246271
+JHU # 10,9/14/2020,12/16/2020,Andre,Mellerson,A. M. & Son Electric,Construction,,,4801 Liberty Heights Ave,Baltimore,21207,MD,4801 Liberty Heights Ave Baltimore 21207 MD ,39.3316672,-76.6980218
+JHU # 19,9/13/2023,12/14/2023,Latrill,Bryant-Bass,"Changing Lives at Home Mental Health,Corp",,621330,No,4805 Garrison Blvd,Baltimore,21215,MD,4805 Garrison Blvd Baltimore 21215 MD ,39.3409337,-76.6831304
+JHU # 07,5/16/2019,8/9/2019,Craig,Vacovsky,Senior Handy Services,Services,238900,,4818 Carroll Manor Rd,Baldwin,21013,MD,4818 Carroll Manor Rd Baldwin 21013 MD ,39.506141,-76.513675
+JHU # 08,9/12/2019,12/13/2019,Sophia,Maroon,Dress It Up Dressing,Food & Beverage,,,4825 Cordell Ave Suite 210,Bethesda,20814,MD,4825 Cordell Ave Suite 210 Bethesda 20814 MD ,38.991033,-77.0968706
+JHU # 06,1/17/2019,4/19/2019,Shayna,Hardy,Shayna Hardy Photography,Design,,,4901 Springarden Dr,Baltimore,21209,MD,4901 Springarden Dr Baltimore 21209 MD ,39.3496787,-76.6570988
+JHU # 11,1/11/2021,4/21/2021,Nkenge,Yasin,Learning How,Education,,,4908 Hamilton Ave,Baltimore,21206,MD,4908 Hamilton Ave Baltimore 21206 MD ,39.3372306,-76.5354486
+JHU # 09,1/9/2020,4/24/2020,Sarah,Early,Lactation Room,Services,621610,,4912 Flanders Ave,Kensington,20895,MD,4912 Flanders Ave Kensington 20895 MD ,39.0386532,-77.0991421
+JHU # 07,5/16/2019,8/9/2019,Neal,Freed,FreedSPIRIT Photo Group,Services,541921,,4931 Cordell Ave,Bethesda,20814,MD,4931 Cordell Ave Bethesda 20814 MD ,38.9886573,-77.0990938
+JHU # 11,1/11/2021,4/21/2021,Hillary,Tayson,Coffee Coffee,Food & Beverage,,,5 Bel Air S Pkwy Ste 117,Bel Air,21015,MD,5 Bel Air S Pkwy Ste 117 Bel Air 21015 MD ,39.4972716,-76.3265289
+JHU # 05,9/13/2018,12/14/2018,Eula,Mcdowell,The Big Bean Theory,Food & Beverage,,,5 Park Pl,Baltimore,21207,MD,5 Park Pl Baltimore 21207 MD ,39.3216887,-76.7134096
+JHU # 09,1/9/2020,4/24/2020,Tory,Pierce,Frederick Ward Associates,Services,541330,,5 S Main St,Bel Air,21014,MD,5 S Main St Bel Air 21014 MD ,39.5367129,-76.3491407
+JHU # 07,5/16/2019,8/9/2019,Tracee,Burroughs-Gardner,Urban Behavioral Associates,Healthcare,,,5001 Silver Hill Rd,Hillcrest Heights,20746,MD,5001 Silver Hill Rd Hillcrest Heights 20746 MD ,38.8503877,-76.9216682
+JHU # 04,4/5/2018,7/20/2018,Deborah,Nelson,Debbies Cuisine Catering,Food & Beverage,,,5002 Willow Branch Way,Owings Mills,21117,MD,5002 Willow Branch Way Owings Mills 21117 MD ,39.412035,-76.8175347
+JHU # 05,9/13/2018,12/14/2018,Veronica,Lane,WJM Professional Services,Services,561311,,501 Hungerford Dr P87,Rockville,20850,MD,501 Hungerford Dr P87 Rockville 20850 MD ,39.0909174,-77.1519211
+JHU # 05,9/13/2018,12/14/2018,Keyia,Yalcin,Fishnet,Food & Beverage,,,5010 Berwyn Rd,College Park,20740,MD,5010 Berwyn Rd College Park 20740 MD ,38.9948416,-76.9258539
+JHU # 12,5/10/2021,8/18/2021,Rachel,Werner,RBW Strategy LLC,Services,541611,,5012 Tothill Dr,Olney,20832,MD,5012 Tothill Dr Olney 20832 MD ,39.1600772,-77.0993882
+JHU # 07,5/16/2019,8/9/2019,Rebecca,Teaff,Redstart Creative,Services,541400,,502 Yarmouth Rd,Towson,21286,MD,502 Yarmouth Rd Towson 21286 MD ,39.3866263,-76.6052879
+JHU # 10,9/14/2020,12/16/2020,Adrienne,Carthon,Nadine Beauty Enterprises,Cosmetic,,,503 Reisterstown Rd,Pikesville,21208,MD,503 Reisterstown Rd Pikesville 21208 MD ,39.3681596,-76.7164431
+JHU # 15,5/5/2022,8/5/2022,Kristian,Edwards,BLK + GRN,Other,,No,510 Cranston Ave,Kettering,20774,MD,510 Cranston Ave Kettering 20774 MD ,38.8822008,-76.7657744
+JHU # 06,1/17/2019,4/19/2019,Laurie,Lessans,OGS Order Green Supply,Construction,,,5130 N Franklintown Rd Suite G,Baltimore,21207,MD,5130 N Franklintown Rd Suite G Baltimore 21207 MD ,39.3034821,-76.7106283
+JHU # 02,3/22/2017,7/7/2017,Funlayo,Alabi,Shea Radiance,Cosmetic,,No,5139 Britten Ln,Ellicott City,21043,MD,5139 Britten Ln Ellicott City 21043 MD ,39.2345267,-76.7767484
+JHU # 03,11/30/2017,3/16/2018,Mary lou,Coyle,Coyle Studios,Services,541922,,516 Fairmount Ave,Towson,21286,MD,516 Fairmount Ave Towson 21286 MD ,39.4011975,-76.5960026
+JHU # 16,9/8/2022,12/9/2022,Kellie,Martin,Earth Elements Soapworks,Retail,456120,No,520 Forrest St Suite 205,Baltimore,21202,MD,520 Forrest St Suite 205 Baltimore 21202 MD ,39.2964391,-76.6053867
+JHU # 18,5/11/2023,8/11/2023,Michael,Jackson,"A Little Faith Accounting & Tax Services, LLC",,541219,No,5208 The Alameda,Baltimore,21239,MD,5208 The Alameda Baltimore 21239 MD ,39.3514248,-76.5990535
+JHU # 16,9/8/2022,12/9/2022,Onobun,Oriaifo,Onobun Oriaifo Investments LLC,Retail,441120,No,521 E 25th Street,Baltimore,21218,MD,521 E 25TH STREET BALTIMORE 21218 MD ,39.3178696,-76.6077714
+JHU # 03,11/30/2017,3/16/2018,Salome,Tinker,TSC Enterprise LLC,Finance,,,5211 Auth Rd,Camp Springs,20746,MD,5211 Auth Rd Camp Springs 20746 MD ,38.8226817,-76.9163227
+JHU # 11,1/11/2021,4/21/2021,Jonathon,Rowland,Rowland Strategies LLC,Other,,,522 S Bond St,Baltimore,21231,MD,522 S Bond St Baltimore 21231 MD ,39.2849099,-76.5956305
+JHU # 08,9/12/2019,12/13/2019,Gerard,Charlot,The Cloud Exchange,Technology,,No,5239 Lightfoot Path,Columbia,21044,MD,5239 Lightfoot Path Columbia 21044 MD ,39.2278499,-76.8905718
+JHU # 09,1/9/2020,4/24/2020,Preston,Rivers,The Nehemiah Group,Construction,,,5313 Tolson Rd,Temple Hills,20748,MD,5313 Tolson Rd Temple Hills 20748 MD ,38.8158104,-76.9240315
+JHU # 19,9/13/2023,12/14/2023,Leslie,Awasom,XSITE Capital,,523940,No,5457 Twin Knolls Rd,Columbia,21045,MD,5457 Twin Knolls Rd Columbia 21045 MD ,39.2230458,-76.8427901
+JHU # 04,4/5/2018,7/20/2018,Caroline,Presburg,BayRunners,Services,485990,,547 Riverside Dr,Salisbury,21801,MD,547 Riverside Dr Salisbury 21801 MD ,38.3619639,-75.6057595
+JHU # 07,5/16/2019,8/9/2019,Kenneth,Bryant,Catapulting Change,Construction,,,5514 E Joppa Rd,Perry Hall,21128,MD,5514 E Joppa Rd Perry Hall 21128 MD ,39.3936884,-76.4269331
+JHU # 11,1/11/2021,4/21/2021,Kelo,Makelele,"RedTrace Technologies, Inc.",Other,,,5520 Research Park Dr Ste 100,Baltimore,21228,MD,5520 Research Park Dr Ste 100 Baltimore 21228 MD ,39.2479699,-76.71462
+JHU # 03,11/30/2017,3/16/2018,Sumesh,Thomas,Hamilton Physical Therapy,Healthcare,,,5535 Harford Rd,Baltimore,21214,MD,5535 Harford Rd Baltimore 21214 MD ,39.3528181,-76.5607215
+JHU # 06,1/17/2019,4/19/2019,Ishmael,Wilson,Fresh Dry Cleaners,Services,812320,,5557 Baltimore Ave Suite 300,Hyattsville,20781,MD,5557 Baltimore Ave Suite 300 Hyattsville 20781 MD ,38.9560918,-76.9398915
+JHU # 10,9/14/2020,12/16/2020,Sherelle,Holder,Karibbean Kinks,Cosmetic,,,557 Ritchie Rd,Capitol Heights,20743,MD,557 Ritchie Rd Capitol Heights 20743 MD ,38.881538,-76.8602721
+JHU # 11,1/11/2021,4/21/2021,Emmaus,Ferdinand,Silent Venus,Other,,,5616 Greenhill Ave,Baltimore,21206,MD,5616 Greenhill Ave Baltimore 21206 MD ,39.3394478,-76.5445875
+JHU # 12,5/10/2021,8/18/2021,William,Wright-El,Pro Energy Electric LLC,Services,238210,,5628 Knell Ave,Baltimore,21206,MD,5628 Knell Ave Baltimore 21206 MD ,39.3360156,-76.5399735
+JHU # 06,1/17/2019,4/19/2019,Aimee,Griffin,The Griffin Firm,Services,541100,,5701 Sachem Dr,Oxon Hill,20745,MD,5701 Sachem Dr Oxon Hill 20745 MD ,38.811478,-76.999385
+JHU # 04,4/5/2018,7/20/2018,Christina,Generie,revolutionEYES,Healthcare,,,"5725 Richards Valley Rd. , Suite A-9",Ellicott City,21043,MD,"5725 Richards Valley Rd. , Suite A-9 Ellicott City 21043 MD ",39.2143055,-76.8019019
+JHU # 15,5/5/2022,8/5/2022,Linnita,Hosten,Excellence Brainery,Education,,No,5777 Baltimore Ave,Hyattsville,20781,MD,5777 Baltimore Ave Hyattsville 20781 MD ,38.9586132,-76.9397848
+JHU # 09,1/9/2020,4/24/2020,Erin,Wolfson,Hamilton Family Dentistry,Healthcare,,No,5810 Harford Rd,Baltimore,21214,MD,5810 Harford Rd Baltimore 21214 MD ,39.3556113,-76.5589387
+JHU # 09,1/9/2020,4/24/2020,Danyelle,Rosebrough,DAR Healthcare Services,Services,621610,,583 Frederick Rd 5C,Catonsville,21228,MD,583 Frederick Rd 5C Catonsville 21228 MD ,39.2725723,-76.7281017
+JHU # 11,1/11/2021,4/21/2021,Tonya,Briggs,BGlam Hair,Other,,,5853 York rd,Baltimore,21212,MD,5853 York rd Baltimore 21212 MD ,39.3632883,-76.609669
+JHU # 13,9/8/2021,12/16/2021,Mark,Morgan,Morgan Lawncare & Landscaping Inc,Services,541320,No,5912 Old Croom Station Rd,Upper Marlboro,20772,MD,5912 Old Croom Station Rd Upper Marlboro 20772 MD ,38.8089157,-76.7594944
+JHU # 03,11/30/2017,3/16/2018,Tara,Doaty,Sage Wellness Group,Consulting,,,5915 Western Run Dr C,Baltimore,21209,MD,5915 Western Run Dr C Baltimore 21209 MD ,39.362236,-76.6785572
+JHU # 16,9/8/2022,12/9/2022,Twee,Nguyen,1727 Mass Ave LLC,Other,535311,No,6 Carver Rd,Cabin John,20818,MD,6 Carver Rd Cabin John 20818 MD ,38.9771685,-77.1618789
+JHU # 03,11/30/2017,3/16/2018,Tyeisha,Bright-Jones,Brighter Stronger Foundation,Other,,,6 Nashua Ct Suite B,Essex,21221,MD,6 Nashua Ct Suite B Essex 21221 MD ,39.3402894,-76.4698916
+JHU # 01,1/18/2017,4/21/2017,Anna,Leventis,Annoula Enterprises LLC,Food & Beverage,,,6 W Cross St,Baltimore,21230,MD,6 W Cross St Baltimore 21230 MD ,39.2769108,-76.6148933
+JHU # 12,5/10/2021,8/18/2021,Melissa,Burke,RickyTHREESticks LLC,Services,541990,,6 Wessex Rd,Silver Spring,20910,MD,6 Wessex Rd Silver Spring 20910 MD ,38.9919475,-77.0092039
+JHU # 12,5/10/2021,8/18/2021,Tiffany,Butler,Harmonious Living Chiropractic,Healthcare,,,603 7th St Ste 301,Laurel,20707,MD,603 7th St Ste 301 Laurel 20707 MD ,39.1026083,-76.8566705
+JHU # 06,1/17/2019,4/19/2019,Saud,Jabali nash,HEP Construction,Construction,,,603 Southern Ave SE,Oxon Hill,20745,MD,603 Southern Ave SE Oxon Hill 20745 MD ,38.8239135,-76.9974207
+JHU # 16,9/8/2022,12/9/2022,Delshan,Baker,Endeavor TBD,Consulting,541600,No,605 Wildwood Pkwy,Baltimore,21229,MD,605 Wildwood Pkwy Baltimore 21229 MD ,39.2942859,-76.6836775
+JHU # 18,5/11/2023,8/11/2023,Salifou,Bishop,Loving Pet Care Hospital,Healthcare,541940,No,6057 Falls Road,Baltimore,21209,MD,6057 Falls Road Baltimore 21209 MD ,39.3724459,-76.6494199
+JHU # 14,1/10/2022,4/20/2022,Theresa,Haywood,Haywood Homes Group,Services,531210,No,6101 Liberty Rd,Baltimore,21207,MD,6101 Liberty Rd Baltimore 21207 MD ,39.3371986,-76.7142614
+JHU # 16,9/8/2022,12/9/2022,Joni,Holifield,HeartSmiles,Not For Profit,813311,No,6102 Fairwood Ave,Baltimore,21206,MD,6102 Fairwood Ave Baltimore 21206 MD ,39.3494394,-76.5430913
+JHU # 04,4/5/2018,7/20/2018,Lynette,Jones-Dove,L. Jones-Dove DDS and Associates Tooth Spa,Healthcare,,,6103 Greenbelt Rd,Berwyn Heights,20740,MD,6103 Greenbelt Rd Berwyn Heights 20740 MD ,38.9970318,-76.9089912
+JHU # 07,5/16/2019,8/9/2019,Mari,Bonnemaison-Moore,Bonnemaison,Other,,,6115 Falls Rd,Baltimore,21209,MD,6115 Falls Rd Baltimore 21209 MD ,39.3771142,-76.6503957
+JHU # 07,5/16/2019,8/9/2019,Biffrey,Braxton,PThree Innovation,Technology,,,618 Ploy St,Baltimore,21201,MD,618 Ploy St Baltimore 21201 MD ,39.2970571,-76.61786
+JHU # 05,9/13/2018,12/14/2018,Michelle,Bond,Bottoms Up Bagels,Food & Beverage,,,619 E 36th St,Baltimore,21218,MD,619 E 36th St Baltimore 21218 MD ,39.3320847,-76.6069287
+JHU # 20,1/24/2024,4/18/2024,B.j.,Folayan,"SECUREMEDY, INCORPORATED",,561612,No,6201 Oglethorpe Mill Dr,Brandywine,20613,MD,6201 Oglethorpe Mill Dr Brandywine 20613 MD ,38.7122558,-76.8999302
+JHU # 13,9/8/2021,12/16/2021,Kendra,Blackett-Dibinga,BIkramYogaWorks,Healthcare,,No,6202 Rhode Island Ave Ste 200,Riverdale Park,20737,MD,6202 Rhode Island Ave Ste 200 Riverdale Park 20737 MD ,38.962889,-76.935768
+JHU # 06,1/17/2019,4/19/2019,Antoynica,Ryan,The Ryan Institute,Education,,,6229 Laurelton Ave,Baltimore,21214,MD,6229 Laurelton Ave Baltimore 21214 MD ,39.3619775,-76.5651915
+JHU # 06,1/17/2019,4/19/2019,Tisa,Clark,J.D. Clark Professional Services,Services,238990,,6301 Foxley Rd Suite 200,Upper Marlboro,20772,MD,6301 Foxley Rd Suite 200 Upper Marlboro 20772 MD ,38.803329,-76.845487
+JHU # 14,1/10/2022,4/20/2022,Lawrence,Shaw,Deep Rooted Living LLC,Food & Beverage,,No,6301d Coastal Ct,Aberdeen Proving Ground,21005,MD,6301d Coastal Ct Aberdeen Proving Ground 21005 MD ,39.494021,-76.140132
+JHU # 03,11/30/2017,3/16/2018,Cara-Michele,Nether,Strength and Vitality Wellness Center,Healthcare,,,6302 Falls Rd,Baltimore,21209,MD,6302 Falls Rd Baltimore 21209 MD ,39.3836875,-76.658417
+JHU # 07,5/16/2019,8/9/2019,Lisa,Anderson,Anavo Transformation Solutions,Consulting,,,6305 Ivy Ln Suite 350,Greenbelt,20770,MD,6305 Ivy Ln Suite 350 Greenbelt 20770 MD ,39.0077524,-76.8978978
+JHU # 15,5/5/2022,8/5/2022,Vennard,Wright,Wave Welcome,Technology,,No,6307 Hickory Bend Rd,Clinton,20735,MD,6307 Hickory Bend Rd Clinton 20735 MD ,38.720573,-76.897356
+JHU # 02,3/22/2017,7/7/2017,Laura,Bellows,"JUL Designs, LLC",Fashion,,,640 Frederick Rd Floor 1,Catonsville,21228,MD,640 Frederick Rd Floor 1 Catonsville 21228 MD ,39.2723274,-76.7314475
+JHU # 02,3/22/2017,7/7/2017,Jan,Peters,"Higher Ground Transportation Services, Inc.",Hospitality,,,6409 Gwinnett Ln,Bowie,20720,MD,6409 Gwinnett Ln Bowie 20720 MD ,38.9783847,-76.7646616
+JHU # 08,9/12/2019,12/13/2019,Franklin,LeQuang,NFour Solutions,Services,541611,,6411 Ivy Ln Ste 530,Greenbelt,20770,MD,6411 Ivy Ln Ste 530 Greenbelt 20770 MD ,39.0080555,-76.8941603
+JHU # 02,3/22/2017,7/7/2017,Nitin,Baviskar,"PN Automation, Inc.",Technology,,,6411 Ivy Ln Suite 410,Greenbelt,20770,MD,6411 Ivy Ln Suite 410 Greenbelt 20770 MD ,39.0080364,-76.8941661
+JHU # 15,5/5/2022,8/5/2022,Brian,Ayers,Ayers Naturals,Retail,,No,6445 America Blvd,Hyattsville,20782,MD,6445 America Blvd Hyattsville 20782 MD ,38.9677536,-76.951323
+JHU # 17,1/19/2023,4/14/2023,Lorna,Kerr,London Leigh Inc,,541410,No,6502 Greyswood Rd,Bethesda,20817,MD,6502 Greyswood Rd Bethesda 20817 MD ,39.0181268,-77.1322661
+JHU # 04,4/5/2018,7/20/2018,Taggart,Brown,Taggart Brown and Associates,Construction,,,660 Kenilworth Dr,Towson,21204,MD,660 Kenilworth Dr Towson 21204 MD ,39.4100425,-76.6153881
+JHU # 02,3/22/2017,7/7/2017,Dan,Swearingen,Embroidme-Catonsville,Services,459130,,"6600 Baltimore National Pike, D1",Catonsville,21228,MD,"6600 Baltimore National Pike, D1 Catonsville 21228 MD ",39.2880413,-76.7637571
+JHU # 16,9/8/2022,12/9/2022,Montressa,Washington,"Chrysalis Consortium, LLC",Consulting,541618,No,6604 Waning Moon Way,Columbia,21045,MD,6604 Waning Moon Way Columbia 21045 MD ,39.1895933,-76.8485109
+JHU # 11,1/11/2021,4/21/2021,Natasha,Brown-Wainwright,BMore Made with Pride LLC,Food & Beverage,,,6615 Harford Rd,Baltimore,21214,MD,6615 Harford Rd Baltimore 21214 MD ,39.3627687,-76.5520251
+JHU # 14,1/10/2022,4/20/2022,Gabrielle,McLeod,Kre8ing Your IdeaS,Retail,,No,6666 Security Blvd Ste 7,Baltimore,21207,MD,6666 Security Blvd Ste 7 Baltimore 21207 MD ,39.3123953,-76.7394997
+JHU # 15,5/5/2022,8/5/2022,Kenneth,Davis,Mainstreet Technologies,Technology,,No,6700 Alexander Bell Dr Ste 200,Columbia,21046,MD,6700 Alexander Bell Dr Ste 200 Columbia 21046 MD ,39.1856452,-76.8094807
+JHU # 06,1/17/2019,4/19/2019,Mohamed,Abker,MegaTel Wireless,Services,517000,,6700 Virginia Manor Rd,Beltsville,20705,MD,6700 Virginia Manor Rd Beltsville 20705 MD ,39.0617694,-76.8950269
+JHU # 05,9/13/2018,12/14/2018,Tanya,Miller,Kingstonville,Consulting,,,6701 Democracy Blvd Suite 300,North Bethesda,20817,MD,6701 Democracy Blvd Suite 300 North Bethesda 20817 MD ,39.0224367,-77.1367879
+JHU # 13,9/8/2021,12/16/2021,Sequoia,Houston,Mocha Stock,Marketing,,No,6710 Laurel Bowie Rd # 2118,Bowie,20715,MD,6710 Laurel Bowie Rd # 2118 Bowie 20715 MD ,38.9832303,-76.7578405
+JHU # 02,3/22/2017,7/7/2017,Tonya,Buckner,"Buckner Management and Technology, Inc.",Technology,,,6710 Laurel Bowie Rd 2122,Bowie,20715,MD,6710 Laurel Bowie Rd 2122 Bowie 20715 MD ,38.9832303,-76.7578405
+JHU # 02,3/22/2017,7/7/2017,Huda,Mu'min,Pretty and Delicious,Hospitality,,,6710 Oxon Hill Rd Suite 210,Oxon Hill,20745,MD,6710 Oxon Hill Rd Suite 210 Oxon Hill 20745 MD ,38.7949004,-77.0012798
+JHU # 19,9/13/2023,12/14/2023,Tameaka,Shelton,"Tameaka Shelton, LLC.",,541612,No,672 Old Mill Rd,Millersville,21108,MD,672 Old Mill Rd Millersville 21108 MD ,39.1185969,-76.6330583
+JHU # 11,1/11/2021,4/21/2021,Marcellus,Wade,Black Fox,Other,,,6751 Columbia Gateway Dr Ste 348,Columbia,21046,MD,6751 Columbia Gateway Dr Ste 348 Columbia 21046 MD ,39.1842503,-76.8015413
+JHU # 10,9/14/2020,12/16/2020,Enyinna,Anthony,Anthony Management Group,Construction,,,"6751 Columbia Gateway Drive, Suite 300",Columbia,21046,MD,"6751 Columbia Gateway Drive, Suite 300 Columbia 21046 MD ",39.1842503,-76.8015413
+JHU # 10,9/14/2020,12/16/2020,Michael,Ajomale,DESIGN DEPICTIONS STRUCTURAL ENGINEERING,Design,,,6755 Business Pkwy,Elkridge,21075,MD,6755 Business Pkwy Elkridge 21075 MD ,39.1834151,-76.7670829
+JHU # 01,1/18/2017,4/21/2017,Sidharth,Sharma,Mobtown Fermentation,Food & Beverage,,,6827 Sewells Orchard Dr,Columbia,21045,MD,6827 Sewells Orchard Dr Columbia 21045 MD ,39.1962596,-76.8298223
+JHU # 17,1/19/2023,4/14/2023,Sahar,Esfahani,Maryland Cognitive Behavioral Treatment Center,Healthcare,621330,No,6917 Arlington Rd,Bethesda,20814,MD,6917 Arlington Rd Bethesda 20814 MD ,38.9784247,-77.0984459
+JHU # 12,5/10/2021,8/18/2021,Kimley,Mitchell-El,Avance IT Solutions,Technology,,,7 Gondola View Ct,Woodstock,21163,MD,7 Gondola View Ct Woodstock 21163 MD ,39.3626489,-76.820851
+JHU # 03,11/30/2017,3/16/2018,Kimberly,Citizen,Applied Development,Services,624120,,7 S Front St,Baltimore,21202,MD,7 S Front St Baltimore 21202 MD ,39.2897817,-76.605064
+JHU # 20,1/24/2024,4/18/2024,Magdalah,Silva,"Data Management Services, Inc",,611430,No,700 Quaint Acres Dr,Silver Spring,20904,MD,700 Quaint Acres Dr Silver Spring 20904 MD ,39.0484916,-76.9964283
+JHU # 04,4/5/2018,7/20/2018,Eric,Waddy,Waddy Accounting Services,Finance,,,"7001 Johnnycake Rd , Suite 208",Windsor MIll,21244,MD,"7001 Johnnycake Rd , Suite 208 Windsor MIll 21244 MD ",39.3062405,-76.7549237
+JHU # 18,5/11/2023,8/11/2023,Chris,Hill,Launch Physical Therapy & Fitness Coaching,Healthcare,621340,Yes,702 King Farm Blvd,Rockville,20850,MD,702 King Farm Blvd Rockville 20850 MD ,39.1112514,-77.1779825
+JHU # 01,1/18/2017,4/21/2017,William,Griffith,Reduction In Motion,Other,,,705 Old Fallston Rd Ste 101,Fallston,21047,MD,705 Old Fallston Rd Ste 101 Fallston 21047 MD ,39.5073434,-76.405057
+JHU # 05,9/13/2018,12/14/2018,Yoni,Rosenblatt,True Sports Physical Therapy,Healthcare,,,710 S Ann St 2nd Floor,Baltimore,21231,MD,710 S Ann St 2nd Floor Baltimore 21231 MD ,39.2832027,-76.5914735
+JHU # 06,1/17/2019,4/19/2019,Eduardo,Aguayo,Newton,Services,541330,,7100 Chesapeake Rd Suite 202,Hyattsville,20784,MD,7100 Chesapeake Rd Suite 202 Hyattsville 20784 MD ,38.9489183,-76.884299
+JHU # 13,9/8/2021,12/16/2021,Fran,Ngong,Fran's Organic Bodycare,Cosmetic,,No,7103 Milford Industrial Blvd,Pikesville,21208,MD,7103 Milford Industrial Blvd Pikesville 21208 MD ,39.3608147,-76.7187711
+JHU # 11,1/11/2021,4/21/2021,Juliana,Buonanno,TechSlice,Other,,,7117 Millbury Ct,ELKRIDGE,21075,MD,7117 Millbury Ct ELKRIDGE 21075 MD ,39.2247109,-76.7619752
+JHU # 15,5/5/2022,8/5/2022,Ricardo,Givens,DMV Computerman,Technology,,No,714 Ritchie Rd,Capitol Heights,20743,MD,714 Ritchie Rd Capitol Heights 20743 MD ,38.8794821,-76.8582012
+JHU # 12,5/10/2021,8/18/2021,Marjorie,Edmonds,Strategic Starts LLC,Services,611710,,714 S Wolfe St,Baltimore,21231,MD,714 S Wolfe St Baltimore 21231 MD ,39.2830461,-76.590109
+JHU # 10,9/14/2020,12/16/2020,Claretta,Rideout,DeQuan's Construction,Construction,,,715 Ingleside Ave Suite 2,Catonsville,21228,MD,715 Ingleside Ave Suite 2 Catonsville 21228 MD ,39.2861079,-76.7318218
+JHU # 20,1/24/2024,4/18/2024,Robin,Fisher,Polished Image and Style LLC,,541600,No,7201 Archsine Ln,Laurel,20707,MD,7201 Archsine Ln Laurel 20707 MD ,39.0961439,-76.8813983
+JHU # 03,11/30/2017,3/16/2018,Gina,Negri,Gentry Concierge International,Healthcare,,,7206 Belair Rd,Baltimore,21206,MD,7206 Belair Rd Baltimore 21206 MD ,39.3602548,-76.5248731
+JHU # 02,3/22/2017,7/7/2017,Jeffrey,Ratnow,Sight-In-Site,Consulting,,,722 E Fort Ave,Baltimore,21230,MD,722 E Fort Ave Baltimore 21230 MD ,39.2725478,-76.6033727
+JHU # 01,1/18/2017,4/21/2017,Jasmine,Simms,Scrub Nail Boutique,Cosmetic,,,722 S Broadway Suite 200,Baltimore,21231,MD,722 S Broadway Suite 200 Baltimore 21231 MD ,39.2829207,-76.5935772
+JHU # 11,1/11/2021,4/21/2021,Debra,Cancro,"VoiceVibes, Inc.",Other,,,7224 Shub Farm Rd,Marriottsville,21104,MD,7224 shub farm rd Marriottsville 21104 MD ,39.3761217,-76.9268316
+JHU # 06,1/17/2019,4/19/2019,Sarah,Oleary,Mend Acupuncture,Healthcare,,,723 Colorado Ave,Baltimore,21210,MD,723 Colorado Ave Baltimore 21210 MD ,39.3555257,-76.6325152
+JHU # 10,9/14/2020,12/16/2020,Hope,Mims,Mims Realty Group,Sales,,,7265 Windsor Blvd Ste 114,Milford Mill,21244,MD,7265 Windsor Blvd Ste 114 Milford Mill 21244 MD ,39.3330579,-76.7570073
+JHU # 20,1/24/2024,4/18/2024,Laneisha,Owens,Amour Fati Salon LLC,,812112,No,7275 Martin Farm Cir,Rosedale,21237,MD,7275 Martin Farm Cir Rosedale 21237 MD ,39.3545749,-76.4877001
+JHU # 06,1/17/2019,4/19/2019,Amy,Mcmanus,Crimson and Clover Floral Design,Services,459310,,733 Deepdene Rd,Baltimore,21210,MD,733 Deepdene Rd Baltimore 21210 MD ,39.3563942,-76.6340686
+JHU # 10,9/14/2020,12/16/2020,Taj,Thomas,Lion Solutions,Technology,,,7361 Calhoun Pl,Rockville,20855,MD,7361 Calhoun Pl Rockville 20855 MD ,39.10844,-77.1511615
+JHU # 06,1/17/2019,4/19/2019,Gail,Furman,Maxs Waxhouse,Retail,,,737 S Broadway,Baltimore,21231,MD,737 S Broadway Baltimore 21231 MD ,39.2826448,-76.5930146
+JHU # 13,9/8/2021,12/16/2021,Femi,Dada,Smarthost Design Technologies LLC,Technology,,No,7375 Executive Pl,Lanham,20706,MD,7375 Executive Pl LANHAM 20706 MD ,38.9911602,-76.8251927
+JHU # 05,9/13/2018,12/14/2018,Thomas,Casey,For The Love Of Food,Food & Beverage,,Yes,7516 Stones Throw Ct,Baltimore,21244,MD,7516 Stones Throw Ct Baltimore 21244 MD ,39.3107789,-76.7739816
+JHU # 04,4/5/2018,7/20/2018,Deepa,Srinivasan,Vision Planning and Consulting,Consulting,,,7572 Morris St,Fulton,20759,MD,7572 Morris St Fulton 20759 MD ,39.1513453,-76.8991967
+JHU # 11,1/11/2021,4/21/2021,Eric,Maynard,Event Tech,Other,,,7601 Brandon Woods Blvd,Baltimore,21226,MD,7601 Brandon Woods Blvd Baltimore 21226 MD ,39.1752278,-76.5470883
+JHU # 07,5/16/2019,8/9/2019,Rhonda,Bedell,Rhonda F Bedell CPA,Services,541211,,7602 Stanmore Dr,Beltsville,20705,MD,7602 Stanmore Dr Beltsville 20705 MD ,39.0629886,-76.8754702
+JHU # 05,9/13/2018,12/14/2018,Debbie,Lacy,Lacys Professional Nursing Services,Healthcare,,,7602 Tamsin Ct,Rosedale,21237,MD,7602 Tamsin Ct Rosedale 21237 MD ,39.3613385,-76.5001457
+JHU # 08,9/12/2019,12/13/2019,James,Smallwood,Smallwoods Grounds Maintenance,Services,238900,,7623 Kipling Pkwy,District Heights,20747,MD,7623 Kipling Pkwy District Heights 20747 MD ,38.861761,-76.8730853
+JHU # 20,1/24/2024,4/18/2024,Lisa,Ealy,Purple Squirrel Group,,541612,No,7641 S Arbory Ln,Laurel,20707,MD,7641 S Arbory Ln Laurel 20707 MD ,39.0987801,-76.8746347
+JHU # 09,1/9/2020,4/24/2020,Reggie,Cox,Alpha Veterinary Center,Healthcare,,,7699 Quarterfield Rd,Glen Burnie,21061,MD,7699 Quarterfield Rd Glen Burnie 21061 MD ,39.148723,-76.6376618
+JHU # 20,1/24/2024,4/18/2024,Tahmeed,Rab,"Kaizen Solutions Group, LLC.",Technology,541519,No,7700 W Classic Ct,Severn,21144,MD,7700 W Classic Ct Severn 21144 MD ,39.1304255,-76.7224546
+JHU # 03,11/30/2017,3/16/2018,Bernard,Woodson,Vessel Electric,Construction,,,7705 Abrams Ln,Glen Burnie,21060,MD,7705 Abrams Ln Glen Burnie 21060 MD ,39.1802534,-76.5640873
+JHU # 10,9/14/2020,12/16/2020,Kimberly,Ellis,Breaking Bread,Food & Beverage,,,771 Washington Blvd,Baltimore,21230,MD,771 Washington Blvd Baltimore 21230 MD ,39.2828217,-76.6280147
+JHU # 13,9/8/2021,12/16/2021,Connie,Russell,"CyberVillage Networkers, Inc.",Technology,,No,7773 Blueberry Hill Ln,Ellicott City,21043,MD,7773 Blueberry Hill Ln Ellicott City 21043 MD ,39.198425,-76.7818971
+JHU # 06,1/17/2019,4/19/2019,Larry,Spriggs,Soft-Con Enterprises,Technology,,,7806 Mystic River Terrace,Glenn Dale,20769,MD,7806 Mystic River Terrace Glenn Dale 20769 MD ,38.9983438,-76.8223014
+JHU # 19,9/13/2023,12/14/2023,Syreeta,Johnson,Redd Solutions LLC,Technology,541611,No,7850 Walker Dr,Greenbelt,20770,MD,7850 Walker Dr Greenbelt 20770 MD ,38.999133,-76.8966236
+JHU # 10,9/14/2020,12/16/2020,Todd,Chaikin,NSCA/TRA-CAL,Services,425110,,7901 Beechcraft Ave Suite M &amp; N,Gaithersburg,20879,MD,7901 Beechcraft Ave Suite M &amp; N Gaithersburg 20879 MD ,39.1642006,-77.1622844
+JHU # 06,1/17/2019,4/19/2019,Ezra,Bourne,LPE Associates,Services,561900,,7903 Steeplechase Ct,Bowie,20715,MD,7903 Steeplechase Ct Bowie 20715 MD ,38.9978858,-76.7764331
+JHU # 07,5/16/2019,8/9/2019,Jamie,Hamelburg,Press Dozier and Hamelburg,Services,541110,,7910 Woodmont Ave Suite 1350,Bethesda,20814,MD,7910 Woodmont Ave Suite 1350 Bethesda 20814 MD ,38.9892854,-77.0966171
+JHU # 03,11/30/2017,3/16/2018,Patricia,MacCrory,"MacCrory Enterprises, Inc (AwardsPlus)",Other,,,7932 Old Branch Ave,Clinton,20735,MD,7932 Old Branch Ave Clinton 20735 MD ,38.7804648,-76.8988162
+JHU # 12,5/10/2021,8/18/2021,Michael,Dicea,MortgageTWOFOURSEVEN LLC,Services,522292,,7939 Honeygo Blvd Ste 112,Nottingham,21236,MD,7939 Honeygo Blvd Ste 112 Nottingham 21236 MD ,39.372199,-76.4723675
+JHU # 03,11/30/2017,3/16/2018,Patience,Brown,Elaflo,Construction,,No,8 Market Pl Suite 300,Baltimore,21202,MD,8 Market Pl Suite 300 Baltimore 21202 MD ,39.283637,-76.6003226
+JHU # 09,1/9/2020,4/24/2020,Fulya,Gursel,Jeezny Sourcing,Consulting,,,8 Market Pl Suite 300,Baltimore,21202,MD,8 Market Pl Suite 300 Baltimore 21202 MD ,39.283637,-76.6003226
+JHU # 18,5/11/2023,8/11/2023,Calvin,Thomas II,Dolphin University Swim School,,611620,No,8 Market Place,Baltimore,21202,MD,8 Market Place Baltimore 21202 MD ,39.2895207,-76.6071972
+JHU # 15,5/5/2022,8/5/2022,Roxana,Rodriguez,Caliente Grill,Food & Beverage,,No,8 Thorn Ct,Annapolis,21403,MD,8 Thorn Ct Annapolis 21403 MD ,38.9598297,-76.5020243
+JHU # 01,1/18/2017,4/21/2017,Rosalind,Holsey,Studio Seven The Salon,Cosmetic,,,800 N Charles St,Baltimore,21201,MD,800 N Charles St Baltimore 21201 MD ,39.2987498,-76.6159674
+JHU # 06,1/17/2019,4/19/2019,Aaron,Teeter,Floura Teeter Landscape Architects,Design,,,800 N Charles St Suite 300,Baltimore,21201,MD,800 N Charles St Suite 300 Baltimore 21201 MD ,39.298761,-76.615975
+JHU # 16,9/8/2022,12/9/2022,Christie,Bell,Curated.,Design,541410,No,804 Ponca St,Baltimore,21224,MD,804 Ponca St Baltimore 21224 MD ,39.2838454,-76.5549817
+JHU # 20,1/24/2024,4/18/2024,Angela,Gustus,"CMAG & Associates, LLC",,541611,No,805 Ironstone Ct,Reisterstown,21136,MD,805 Ironstone Ct Reisterstown 21136 MD ,39.437976,-76.8328147
+JHU # 02,3/22/2017,7/7/2017,Carolina,Seldes,ITNOVA,Technology,,,808 Landmark Dr,Glen Burnie,21061,MD,808 Landmark Dr Glen Burnie 21061 MD ,39.1475393,-76.6432115
+JHU # 17,1/19/2023,4/14/2023,Jean,Rusatira,Umuko Coffee LLC,,423440,No,810 W Patapsco Ave,Baltimore,21230,MD,810 W Patapsco Ave Baltimore 21230 MD ,39.2446651,-76.6322869
+JHU # 08,9/12/2019,12/13/2019,Stephanie,Hollingsworth,Perfect Path Informatics Solutions,Consulting,,,8115 Maple Lawn Blvd,Fulton,20759,MD,8115 Maple Lawn Blvd Fulton 20759 MD ,39.1520057,-76.9024502
+JHU # 10,9/14/2020,12/16/2020,James,Jean-Baptiste,CyberLinx Solutions,Technology,,,8115 Maple Lawn Blvd Suite 350,Fulton,20759,MD,8115 Maple Lawn Blvd Suite 350 Fulton 20759 MD ,39.1493643,-76.9053023
+JHU # 03,11/30/2017,3/16/2018,Jim,Langley,"CPE, Inc.",Construction,,,8131 Dorsey Run Rd,Jessup,20794,MD,8131 Dorsey Run Rd Jessup 20794 MD ,39.1478597,-76.7892161
+JHU # 15,5/5/2022,8/5/2022,Mark,Reed,Superior Real Estate Management & Development Company,Construction,,No,814 Cathedral St Apt 4F,Baltimore,21201,MD,814 Cathedral St Apt 4F Baltimore 21201 MD ,39.2991918,-76.6175538
+JHU # 06,1/17/2019,4/19/2019,David,McDonald,All Staffed Up,Services,561320,,814 Glen Allen Dr Suite 815,Baltimore,21229,MD,814 Glen Allen Dr Suite 815 Baltimore 21229 MD ,39.298182,-76.6977995
+JHU # 16,9/8/2022,12/9/2022,Julye,Williams,"The Project 2043 Institute, LLC",Consulting,541611,No,815 Pershing Dr Apt 246,Silver Spring,20910,MD,815 Pershing Dr Apt 246 Silver Spring 20910 MD ,38.9982061,-77.0238282
+JHU # 14,1/10/2022,4/20/2022,Eberechi,Ugwu-Amole,"Captiva Solutions, LLC",Technology,,No,8201 Corporate Dr Ste 635,Hyattsville,20785,MD,8201 Corporate Dr Ste 635 Ste 635 Hyattsville 20785 MD ,38.9459769,-76.8646474
+JHU # 09,1/9/2020,4/24/2020,Nabil,Sheikh,OmegaCor Technologies,Technology,,,8227 Cloverleaf Dr Suite 308B,Millersville,21108,MD,8227 Cloverleaf Dr Suite 308B Millersville 21108 MD ,39.1196899,-76.6327135
+JHU # 07,5/16/2019,8/9/2019,Robin,Holmes,Deddles,Food & Beverage,,,8272 Kings Crown Rd,Pikesville,21208,MD,8272 Kings Crown Rd Pikesville 21208 MD ,39.3635392,-76.759147
+JHU # 14,1/10/2022,4/20/2022,Kevin,Tyler,"K&C Technologies, LLC dba Mid Atlantic Systems",Technology,,No,8373 Piney Orchard Pkwy Ste 100,Odenton,21113,MD,8373 Piney Orchard Pkwy Ste 100 Odenton 21113 MD ,39.086097,-76.699153
+JHU # 08,9/12/2019,12/13/2019,Tarandeep,Bawa,ITegrity,Technology,,,8380 Colesville Rd Ste 110,Silver Spring,20910,MD,8380 Colesville Rd Ste 110 Silver Spring 20910 MD ,38.9929079,-77.032923
+JHU # 01,1/18/2017,4/21/2017,Dana,Sicko,Gundalow Gourmet,Food & Beverage,,No,840 Oella Ave,Ellicott City,21043,MD,840 Oella Ave Ellicott City 21043 MD ,39.2745392,-76.7882081
+JHU # 16,9/8/2022,12/9/2022,Falahyar,Fatmi,Exceed I.T.,Technology,541611,No,8400 Corporate Dr Ste 250,Hyattsville,20785,MD,8400 Corporate Dr Ste 250 Ste 250 Hyattsville 20785 MD ,38.9470157,-76.8622067
+JHU # 01,1/18/2017,4/21/2017,Brendan,Mccluskey,Trident Builders,Construction,,,841 E Fort Ave,Baltimore,21230,MD,841 E Fort Ave Baltimore 21230 MD ,39.2709991,-76.603079
+JHU # 07,5/16/2019,8/9/2019,Dominick,Davis,DIFFERENTREGARD,Retail,,,841 N Howard St,Baltimore,21201,MD,841 N Howard St Baltimore 21201 MD ,39.2995188,-76.6198128
+JHU # 07,5/16/2019,8/9/2019,Mark,McFadden,McTech,Technology,,,8417 Merryview Dr,Milford Mill,21244,MD,8417 Merryview Dr Milford Mill 21244 MD ,39.3570532,-76.7745867
+JHU # 11,1/11/2021,4/21/2021,Samia,Bingham,Flavors Culinary Group,Food & Beverage,,,8507 Oxon Hill Rd Ste 200-S20,Fort Washington,20744,MD,8507 Oxon Hill Rd Ste 200-S20 FORT WASHINGTON 20744 MD ,38.7727325,-77.0065157
+JHU # 12,5/10/2021,8/18/2021,Ann,Brennan,ASMM Digital Marketing,Design,,,8515 Longfellow Pl,Chevy Chase,20815,MD,8515 Longfellow Pl Chevy Chase 20815 MD ,38.9956683,-77.0805554
+JHU # 06,1/17/2019,4/19/2019,Ung,Baik,Pauls Beauty Warehouse,Wholesale,,,8601 Ritchie Dr Suite A,Capitol Heights,20743,MD,8601 Ritchie Dr Suite A Capitol Heights 20743 MD ,38.8730423,-76.8559628
+JHU # 03,11/30/2017,3/16/2018,Deborah,Owens,Owens Media Group,Services,541600,,8630 Eastern Morning Run,Laurel,20723,MD,8630 Eastern Morning Run Laurel 20723 MD ,39.1379883,-76.859733
+JHU # 03,11/30/2017,3/16/2018,Juan,Sims,"U.S. Federal Solutions, Inc.",Consulting,,,8710 Cameron St,Silver Spring,20910,MD,8710 Cameron St Silver Spring 20910 MD ,38.9992785,-77.0288926
+JHU # 19,9/13/2023,12/14/2023,Ari,Lewis,JenesaisQuoi LLC,,238900,No,8713 Allenswood Rd,Randallstown,21133,MD,8713 Allenswood Rd Randallstown 21133 MD ,39.3708462,-76.7828613
+JHU # 07,5/16/2019,8/9/2019,Yvette,Housen,Housen Health Services,Healthcare,,,8713 Ivyberry Way,Gaithersburg,20886,MD,8713 Ivyberry Way Gaithersburg 20886 MD ,39.1818262,-77.1786204
+JHU # 01,1/18/2017,4/21/2017,Beatrice,Key,"Key and Associates, P.C.",Consulting,,,8720 Fenton St 800,Silver Spring,20910,MD,8720 Fenton St 800 Silver Spring 20910 MD ,38.9983858,-77.028767
+JHU # 17,1/19/2023,4/14/2023,Melissa,Daley,Orca Intelligence,Technology,541512,No,8720 Georgia Ave,Silver Spring,20910,MD,8720 Georgia Ave Silver Spring 20910 MD ,38.9977534,-77.030404
+JHU # 12,5/10/2021,8/18/2021,Nkem,Okeke,Medicalincs LLC,Healthcare,,,8757 Georgia Ave Ste 440,Silver Spring,20910,MD,8757 Georgia Ave Ste 440 Silver Spring 20910 MD ,38.9985545,-77.0301415
+JHU # 13,9/8/2021,12/16/2021,Akinyemi,Jelenke,Harava Group Inc,Consulting,,No,8757 Georgia Ave Ste 440,Silver Spring,20910,MD,8757 Georgia Ave Ste 440 Silver Spring 20910 MD ,38.9985545,-77.0301415
+JHU # 08,9/12/2019,12/13/2019,Radiah,Rhodes,Evok Life by Design,Services,541990,,8775 Centre Park Dr Suite 357,Columbia,21045,MD,8775 Centre Park Dr Suite 357 Columbia 21045 MD ,39.2268348,-76.8180294
+JHU # 13,9/8/2021,12/16/2021,Cherie,Wallace,Power52 Foundation,Education,,No,8775 Cloudleap Ct Ste 11,Columbia,21045,MD,8775 Cloudleap Ct Ste 11 Columbia 21045 MD ,39.2066324,-76.8159838
+JHU # 17,1/19/2023,4/14/2023,Carlton,Wilkins,Nehemiah Management,Construction,236220,No,8787 Branch Ave,Clinton,20735,MD,8787 Branch Ave Clinton 20735 MD ,38.7685004,-76.8894244
+JHU # 18,5/11/2023,8/11/2023,Lovelle,Pierre,Homes with Love 365,,531210,No,8815 Centre Park Dr,Columbia,21045,MD,8815 Centre Park Dr Columbia 21045 MD ,39.2284881,-76.8161913
+JHU # 08,9/12/2019,12/13/2019,Khalid,Khalifa,KK Engineering,Design,,,8850 Columbia 100 Pkwy Ste 316,Columbia,21045,MD,8850 Columbia 100 Pkwy Ste 316 Columbia 21045 MD ,39.2325217,-76.8142173
+JHU # 19,9/13/2023,12/14/2023,Reginald,Riley jr,DCI Construction Inc,,236115,No,8855 Annapolis Rd,Lanham,20706,MD,8855 Annapolis Rd Lanham 20706 MD ,38.9595818,-76.8636491
+JHU # 04,4/5/2018,7/20/2018,Gloria,Larkin,TargetGov,Consulting,,,891 Elkridge Landing Rd,Linthicum Heights,21090,MD,891 Elkridge Landing Rd Linthicum Heights 21090 MD ,39.2006557,-76.6856537
+JHU # 05,9/13/2018,12/14/2018,Laura,Labovich,The Career Strategy Group,Services,541990,,8910 Seneca Ln,Bethesda,20817,MD,8910 Seneca Ln Bethesda 20817 MD ,39.0009824,-77.1114332
+JHU # 10,9/14/2020,12/16/2020,Jay,Hodge,"Relational Excellence, LLC",Healthcare,,,898 Airport Park Rd Suite 101,Glen Burnie,21061,MD,898 Airport Park Rd Suite 101 Glen Burnie 21061 MD ,39.1735996,-76.6444162
+JHU # 09,1/9/2020,4/24/2020,Ellen,Breidenbaugh,ACS Industrial Services,Services,811310,,9 Schilling Rd,Cockeysville,21031,MD,9 Schilling Rd Cockeysville 21031 MD ,39.4928862,-76.6503826
+JHU # 09,1/9/2020,4/24/2020,Kathleen,Carr,Upper Chesapeake Insurance Agency,Services,524210,,900 S Charles St,Baltimore,21230,MD,900 S Charles St Baltimore 21230 MD ,39.2788416,-76.6147116
+JHU # 03,11/30/2017,3/16/2018,Nicholas,Johnson,Su Casa Furniture,Retail,,,901 S Bond St,Baltimore,21231,MD,901 S Bond St Baltimore 21231 MD ,39.2805499,-76.5945061
+JHU # 03,11/30/2017,3/16/2018,Joy,Dukes,"A. L. Dukes, Inc.",Food & Beverage,,,906 Painted Post Rd,Pikesville,21208,MD,906 Painted Post Rd Pikesville 21208 MD ,39.3688508,-76.7427025
+JHU # 17,1/19/2023,4/14/2023,Tom,Ingegno,CHARM CITY INTEGRATIVE HEALTH,Healthcare,812199,No,907 S Lakewood Ave,Baltimore,21224,MD,907 S Lakewood Ave Baltimore 21224 MD ,39.281861,-76.578226
+JHU # 08,9/12/2019,12/13/2019,Richard,Abraham,Abraham and Bauer,Services,541110,,909 Ridgebrook Rd Ste 212,Sparks Glencoe,21152,MD,909 Ridgebrook Rd Ste 212 Sparks Glencoe 21152 MD ,39.5246171,-76.6527915
+JHU # 12,5/10/2021,8/18/2021,Lisa,Ortiz,Spring Ridge Chiropractic,Healthcare,,,9093 Ridgefield Dr,FREDERICK,21701,MD,9093 Ridgefield Dr FREDERICK 21701 MD ,39.3988246,-77.349045
+JHU # 01,1/18/2017,4/21/2017,Jeff,Hargrave,Mahogany Inc,Construction,,,910 W Pratt St,Baltimore,21223,MD,910 W Pratt St Baltimore 21223 MD ,39.2860139,-76.6326522
+JHU # 12,5/10/2021,8/18/2021,Yemisi,Akinneye,Mathnasium,Services,611000,,9101 Woodmore Center Dr,Glenarden,20706,MD,9101 Woodmore Center Dr Glenarden 20706 MD ,38.9228145,-76.84874
+JHU # 03,11/30/2017,3/16/2018,Sarah,Leite,Yoga Tree Baltimore,Education,,,"911 W. 36th Street , Suite 2",Baltimore,21211,MD,"911 W. 36th Street , Suite 2 Baltimore 21211 MD ",39.3308507,-76.6317739
+JHU # 12,5/10/2021,8/18/2021,Meagan,Connolly,Alchemi Design and Publications,Design,,,912 Pine Trail,Arnold,21012,MD,912 Pine Trail Arnold 21012 MD ,39.0584716,-76.4777136
+JHU # 20,1/24/2024,4/18/2024,Danelle,Pinder,Excellence & Ambition Inc.,,624110,No,920 E 20th St,Baltimore,21218,MD,920 E 20th St Baltimore 21218 MD ,39.3128684,-76.605593
+JHU # 16,9/8/2022,12/9/2022,Durryle,Brooks,"Love and Justice Consulting, LLC",Consulting,611430,No,920 E 37th Street,Baltimore,21218,MD,920 E 37th Street Baltimore 21218 MD ,39.3335399,-76.6034604
+JHU # 17,1/19/2023,4/14/2023,David,Goode-Cross,East Towson Psychological Services,,621330,No,920 Providence Rd,Baltimore,21286,MD,920 Providence Rd Baltimore 21286 MD ,39.4064887,-76.581648
+JHU # 19,9/13/2023,12/14/2023,Anthony mel,Golden,Mel Golden Homes LLC,Sales,531210,No,9203 Cedarcrest Dr,Bethesda,20814,MD,9203 Cedarcrest Dr Bethesda 20814 MD ,39.0062406,-77.1002345
+JHU # 04,4/5/2018,7/20/2018,Claudia,Towles,aMuse Toys,Retail,,Yes,921 E Fort Ave,Baltimore,21230,MD,921 E Fort Ave Baltimore 21230 MD ,39.2710415,-76.6006199
+JHU # 04,4/5/2018,7/20/2018,Laquicha,Brown,Berries By Quicha,Food & Beverage,,,922 Light St,Baltimore,21230,MD,922 Light St Baltimore 21230 MD ,39.2783563,-76.612851
+JHU # 06,1/17/2019,4/19/2019,Tami,Mullen,Intuitive Group,Services,541611,,9221 Hampton Overlook,Capitol Heights,20743,MD,9221 Hampton Overlook Capitol Heights 20743 MD ,38.8862517,-76.8484794
+JHU # 14,1/10/2022,4/20/2022,Felicia,Daniel,"Beck & Call Professional Services, LLC",Services,561720,No,9314 Kendal Cir,Laurel,20723,MD,9314 KENDAL CIR Laurel 20723 MD ,39.1326128,-76.8319465
+JHU # 20,1/24/2024,4/18/2024,David,Mercer,"DFIT, LLC",,454390,No,9320 Town Pl Dr,Owings Mills,21117,MD,9320 Town Pl Dr OWINGS MILLS 21117 MD ,39.4052568,-76.807764
+JHU # 11,1/11/2021,4/21/2021,Cerissa,ONeal,"Milestone Title, LLC",Other,,,9500 Medical Center Dr,Largo,20774,MD,9500 Medical Center Dr Largo 20774 MD ,38.9040632,-76.8407594
+JHU # 10,9/14/2020,12/16/2020,Sahmra,Stevenson,Wills On Wheels,Services,541110,,9520 Berger Rd 212,Columbia,21046,MD,9520 Berger Rd 212 Columbia 21046 MD ,39.1744736,-76.8420436
+JHU # 20,1/24/2024,4/18/2024,Dawn,Foster,D. Foster Marketing Consulting LLC,,519100,No,9613 Clearview Pl,Silver Spring,20901,MD,9613 Clearview Pl Silver Spring 20901 MD ,39.0138178,-77.0069275
+JHU # 08,9/12/2019,12/13/2019,Robert,Bannister,AGi,Technology,,,962 Wayne Ave Ste 325,Silver Spring,20910,MD,962 Wayne Ave Ste 325 Silver Spring 20910 MD ,38.9942081,-77.0258137
+JHU # 06,1/17/2019,4/19/2019,Tomi,Bannister,Automated Resource Management Associates,Technology,,,962 Wayne Ave Suite 320,Silver Spring,20910,MD,962 Wayne Ave Suite 320 Silver Spring 20910 MD ,38.9942578,-77.0259027
+JHU # 12,5/10/2021,8/18/2021,Craig,Philip,Grindstone Advantage LLC,Security,,,9658 Baltimore Ave,College Park,20740,MD,9658 Baltimore Ave College Park 20740 MD ,39.013196,-76.9285649
+JHU # 09,1/9/2020,4/24/2020,Jeff,Wilson,The WII Group,Finance,,,9672 Marlboro Pike,Upper Marlboro,20772,MD,9672 Marlboro Pike Upper Marlboro 20772 MD ,38.8163812,-76.8391891
+JHU # 04,4/5/2018,7/20/2018,Tajuddin,Sabree,Sabree,Services,238900,No,9687 Gerwig Ln,Columbia,21046,MD,9687 Gerwig Ln Columbia 21046 MD ,39.1746715,-76.8477328
+JHU # 11,1/11/2021,4/21/2021,Christina,Fitts,AJ Fitts Unlimited LLC,Other,,,9700 Ames Ct,Randallstown,21133,MD,9700 Ames Ct Randallstown 21133 MD ,39.3687462,-76.8249543
+JHU # 12,5/10/2021,8/18/2021,Frank,Valdivieso,Gryphon Consulting,Technology,,,9701 Apollo Dr,Upper Marlboro,20774,MD,9701 Apollo Dr Upper Marlboro 20774 MD ,38.9044994,-76.8384907
+JHU # 11,1/11/2021,4/21/2021,Enrique,Young,FEBA Security Services,Security,,,9701 Apollo Dr Ste 253,Upper Marlboro,20774,MD,9701 Apollo Dr Ste 253 Upper Marlboro 20774 MD ,38.9043565,-76.8404606
+JHU # 10,9/14/2020,12/16/2020,Bernadette,Clay,BLE Executive & Virtual Office Suites,Rental,,,9701 Apollo Dr Ste 301,Upper Marlboro,20774,MD,9701 Apollo Dr Ste 301 Upper Marlboro 20774 MD ,38.9044746,-76.8385816
+JHU # 07,5/16/2019,8/9/2019,Arieh,Katz,ACPS Painting,Services,238320,,9710 Traville Gateway Dr,Rockville,20850,MD,9710 Traville Gateway Dr Rockville 20850 MD ,39.091644,-77.2042947
+JHU # 19,9/13/2023,12/14/2023,Ebony,Gaynor,"Ever-Evolving Consulting, LLC",Business Services,541600,No,9722 Groffs Mill Dr,Owings Mills,21117,MD,9722 Groffs Mill Dr Owings Mills 21117 MD ,39.405689,-76.8114106
+JHU # 02,3/22/2017,7/7/2017,Nakeia,Drummond,"NLD STRATEGIC, LLC",Services,541611,,9735 Eustice Road,Randallstown,21133,MD,9735 Eustice Road Randallstown 21133 MD ,39.3677584,-76.8302346
+JHU # 13,9/8/2021,12/16/2021,CSP,Will Brown,"Brown Safety Consulting, LLC",Construction,,No,9804 Twilight Beech Lane,Laurel,20723,MD,9804 TWILIGHT BEECH LANE LAUREL 20723 MD ,39.1384849,-76.8559753
+JHU # 08,9/12/2019,12/13/2019,Tracie,Miller-Mitchell,Big Frog Custom Tshirts and More of Prince Georges,Printing,,,9805 Traver St,Bowie,20721,MD,9805 Traver St Bowie 20721 MD ,38.9193559,-76.836193
+JHU # 09,1/9/2020,4/24/2020,Debbie,Filling,Soiree Salon,Cosmetic,,,9832 York Rd Suite 2F,Cockeysville,21030,MD,9832 York Rd Suite 2F Cockeysville 21030 MD ,39.4598948,-76.6351504
+JHU # 20,1/24/2024,4/18/2024,Jarel amari,Ice,Amari Means Love,,812990,No,99 Capital Ct Apt 3426 Apt 3426,Upper Marlboro,20774,MD,99 Capital Ct Apt 3426 Apt 3426 Upper Marlboro 20774 MD ,38.8936386,-76.8399775
+JHU # 08,9/12/2019,12/13/2019,Lisa,Nelson,See In Colors,Services,541611,,9900 Greenbelt Rd Suite 235,Lanham,20706,MD,9900 Greenbelt Rd Suite 235 Lanham 20706 MD ,38.9915786,-76.8330842
+JHU # 02,3/22/2017,7/7/2017,Damon,Roundtree,Emerge Contracting LLC,Construction,,,PO Box 1165,Randallstown,21133,MD,PO Box 1165 Randallstown 21133 MD ,39.3766768,-76.8086617
+JHU # 02,3/22/2017,7/7/2017,Andrea,Grant,Just Like Home,Services,721310,,PO Box 2378,Silver Spring,20915,MD,PO Box 2378 Silver Spring 20915 MD ,39.04,-77.06
+JHU # 15,5/5/2022,8/5/2022,Ashley,Pelt,NT Land Works / Native Terrain LLC,Construction,,No,PO Box 656,Fallston,21047,MD,PO Box 656 Fallston 21047 MD ,39.5224547,-76.4447397
+JHU # 06,1/17/2019,4/19/2019,Ellen,Platt,The Option Group,Services,624120,,PO Box 72,Hunt Valley,21030,MD,PO Box 72 Hunt Valley 21030 MD ,39.4900013,-76.6585074
+JHU # 11,1/11/2021,4/21/2021,Harry,White,"BW Communications, Inc.",Other,,,PO Box 7342,Largo,20792,MD,PO Box 7342 Largo 20792 MD ,38.82,-76.75
