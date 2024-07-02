@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<base target="_top">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>10,000 Small Businesses Program Alumni Map</title>
+	
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" integrity="sha512-Zcn6bjR/8RZbLEpLIeOwNtzREBAJnUKESxces60Mpoj+2okopSAcSUIUOseddDm0cxnGQzxIR7vJgsLZbdLE3w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js" integrity="sha512-BwHfrr4c9kmRkLw6iXFdzcdWV/PGkVgiIyIWLLlTSXzWQzxuSg4DiQUCpauz/EWjgk5TYQqX/kvn9pG1NpYfqg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>    
+    <script src="https://unpkg.com/leaflet.featuregroup.subgroup@1.0.2/dist/leaflet.featuregroup.subgroup.js"></script>    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="./leaflet.zoomhome.css">
+    <script src="./leaflet.zoomhome.min.js"></script>
+    <link rel="stylesheet" href="./demo.css">
+    <script src="./leaflet-iconex.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 100vh;
+			width: 100vw;
+			max-width: 100%;
+			max-height: 100%;
+		}
+        div.legend {
+            background-color: white;
+            padding: 0 20px 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+        div.legend div.swatches {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            height: 50vh;
+        }
+        div.legend div.entry {
+            display: flex;
+            justify-content: space-between;
+            justify-content: flex-start;
+
+        }
+        div.cluster div.entry div.swatch {
+            margin-right: 10px;
+            width: 20px;
+            height: 20px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            pointer-events: none;
+            border: .5px solid black;
+        }
+        div.cluster div.entry div.label {
+            padding-top: 2px;
+            pointer-events: none;
+        }
+        div.cluster div.entry.selected div.label {
+            font-weight: 600;
+        }
+        div.cluster .reset {
+            font-weight: 700;
+            text-align: right;
+            margin: 0;
+        }
+	</style>
+</head>
+<body>
+    <div id="map" style="width: 100vw; height: 100vh;"></div>
+    <script>
+
+        const map = L.map('map', {zoomControl: false}).setView([38.47654, -76.71313], 8);
+        const zoomHome = L.Control.zoomHome();
+        zoomHome.addTo(map);
+        const Stadia_AlidadeSmooth = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.{ext}', {
+            minZoom: 0,
+            maxZoom: 20,
+            attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            ext: 'png'
+        }).addTo(map);
+        d3.csv("alumni.csv").then((data) => {
+            const locations = [
+                {
+                    lat: 39.328888,
+                    lon: -76.620277,
+                    label: "The Johns Hopkins University - Homewood Campus"
+                },
+                {
+                    lat: 39.3459,
+                    lon: -76.5832,
+                    label: "Morgan State University"
+                },
+                {
+                    lat: 39.291,
+                    lon: -76.61073,
+                    label: "Baltimore City Hall"
+                },
+                {
+                    lat: 39.254,
+                    lon: -76.73406,
+                    label: "The Community College of Baltimore County - Catonsville Campus"
+                },
+                {
+                    lat: 39.2657,
+                    lon: -76.51482,
+                    label: "The Community College of Baltimore County - Dundalk Campus"
+                },
+                {
+                    lat: 39.35452,
+                    lon: -76.48061,
+                    label: "The Community College of Baltimore County - Essex Campus"
+                }
+            ]
+            const campuses = L.featureGroup();
+            const icon = new L.IconEx({
+                contentHtml: `<i class="fa fa-building"></i>`,
+                iconFill: "#002D72",
+                iconStroke: null,
+                backgroundFill: "#002D72",
+                contentColor: "#fff"
+            })
+            locations.forEach(c => {
+                L.marker([c.lat, c.lon], {icon: icon}).bindTooltip(c.label).addTo(campuses);
+            })
+            const alumni = L.featureGroup();
+            const subgroups = [];
+            const gradDates = Array.from(new Set(data.map(d => d.end_date)));
+            gradDates.forEach(cohort => {
+                let endDate = cohort.split("/");
+                let gradDate = new Date(endDate[2], 
+                    endDate[0].length < 2 ? `0${endDate[0]}` : endDate[0], 
+                    endDate[1].length < 2 ? `0${endDate[1]}` : endDate[1]);
+                let dateStrings = gradDate.toDateString().split(" ");
+                let cohortLabel = `${dateStrings[1]} ${dateStrings[3]}`;
+                let cohortData = data.filter(d => d.end_date === cohort);
+                subgroups.push({
+                    label: cohortLabel, 
+                    data: cohortData, 
+                    date: gradDate});
+            })
+            const subgroupsSorted = subgroups.slice().sort((a,b) => b.date - a.date)
+            const industries = Array.from(new Set(data.map(d => d.industry))).sort((a,b)=>a.localeCompare(b));
+            const colorScale = d3.scaleSequential()
+                .domain([0, industries.length-1])
+                .interpolator(d3.interpolateCubehelixDefault);
+            subgroupsSorted.forEach(group => {
+                let groupMarkers = [];
+                group.data.forEach(alum => {
+                    groupMarkers.push(
+                        L.circleMarker([alum.latitude, alum.longitude], {
+                            radius: 5,
+                            fillColor: colorScale(alum.industry ? industries.indexOf(alum.industry) : industries.indexOf("Other")),
+                            fillOpacity: .75,
+                            stroke: true,
+                            opacity: .75,
+                            weight: 0.5,
+                            color: alum.closed === "Yes" ? "red" : "black",
+                            industry: alum.industry
+                        }).bindTooltip(alum.business_name)
+                        .bindPopup(`${alum.business_name} - ${alum.industry}`)
+                    )
+                })
+                let cohortGroup = L.featureGroup.subGroup(alumni, groupMarkers)
+                cohortGroup.addTo(map);
+                group.layerGroup = cohortGroup;
+            })
+            alumni.addTo(map)
+            const overlays = {}
+            overlays["Partner Locations"] = campuses;
+            subgroupsSorted.forEach(g => overlays[g.label] = g.layerGroup)
+            const layerControl = L.control.layers(null, overlays, {collapsed: true}).addTo(map);
+            const clusterLegend = L.control({position: "bottomleft"})
+            clusterLegend.onAdd = function(map) {
+                let div = L.DomUtil.create("div", 'legend cluster');
+                let h3 = L.DomUtil.create("h3", null, div);
+                h3.textContent = "Industries";
+                let swatches = L.DomUtil.create("div", "swatches", div)
+                industries.forEach((name, i) => {
+                    if (name) {
+                        let color = colorScale(i)
+                        let entry = L.DomUtil.create("div", "entry", swatches);
+                        let swatch = L.DomUtil.create("div", "swatch", entry);
+                        let label = L.DomUtil.create("div", "label", entry);
+                        swatch.style = `background-color: ${color};`
+                        label.textContent = name;
+                    }
+                })
+                let reset = L.DomUtil.create("div", "reset entry", div);
+                let btn = L.DomUtil.create("div", "label", reset)
+                btn.textContent = "Reset Filter";
+                return div;
+            }
+            clusterLegend.addTo(map);
+            function handleClusterLegendClick(e) {
+                d3.selectAll('div.entry').classed("selected", false);
+                let entry = d3.select(e.target);
+                entry.classed("selected", true);
+                let label = entry.select(".label").html();
+                alumni.eachLayer(function(layer) {
+                    layer.setStyle({
+                        fillOpacity: .75,
+                        opacity: .75
+                    })
+                    if (label != "Reset Filter") {
+                        let category = layer.options.industry;
+                        if (label != category) {
+                            layer.setStyle({
+                                fillOpacity: .05,
+                                opacity: .05
+                            })
+                        } else {
+                            layer.bringToFront();
+                        }
+                    }
+                })
+            }
+            d3.selectAll("div.legend.cluster div.entry").on("click", handleClusterLegendClick)        
+        })
+    </script>
+</body>
+</html>

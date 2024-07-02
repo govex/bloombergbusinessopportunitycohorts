@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<base target="_top">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>10,000 Small Businesses Program Alumni Map</title>
+	
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" integrity="sha512-Zcn6bjR/8RZbLEpLIeOwNtzREBAJnUKESxces60Mpoj+2okopSAcSUIUOseddDm0cxnGQzxIR7vJgsLZbdLE3w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js" integrity="sha512-BwHfrr4c9kmRkLw6iXFdzcdWV/PGkVgiIyIWLLlTSXzWQzxuSg4DiQUCpauz/EWjgk5TYQqX/kvn9pG1NpYfqg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://unpkg.com/leaflet.featuregroup.subgroup@1.0.2/dist/leaflet.featuregroup.subgroup.js"></script>    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="./leaflet.zoomhome.css">
+    <script src="./leaflet.zoomhome.min.js"></script>
+    <link rel="stylesheet" href="./demo.css">
+    <script src="./leaflet-iconex.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 100vh;
+			width: 100vw;
+			max-width: 100%;
+			max-height: 100%;
+		}
+        div.leaflet-control-layers {
+            visibility: hidden;
+        }
+        div.legend {
+            background-color: white;
+            padding: 0 20px 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+        div.cluster h3 {
+            max-width: 130px;
+        }
+        div.cluster div.progressGroup {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+        div.cluster div.progressGroup div.progress {
+            width: 50px;
+            height: auto;
+            border-bottom: 1px solid black;
+            border-top: 1px solid black;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+        }
+        div.cluster div.progressGroup div.progress div.barTick {
+            width: 30px;
+            margin: auto;
+            background: #002D72;
+            flex-grow: 1;
+        }
+        div.cluster div.entry div.label {
+            padding-bottom: 5px;
+            pointer-events: none;
+            font-weight: 500;
+            font-size: .9em;
+        }
+        div.cluster p.bizSum {
+            font-size: 1.1em;
+            font-weight: 500;
+            text-align: center;
+        }
+	</style>
+</head>
+<body>
+    <div id="map" style="width: 100vw; height: 100vh;"></div>
+    <script>
+
+        const map = L.map('map', {zoomControl: false}).setView([38.47654, -76.71313], 8);
+        const zoomHome = L.Control.zoomHome();
+        zoomHome.addTo(map);
+        const Stadia_AlidadeSmooth = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.{ext}', {
+            minZoom: 0,
+            maxZoom: 20,
+            attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            ext: 'png'
+        }).addTo(map);
+        const locations = [
+            {
+                lat: 39.328888,
+                lon: -76.620277,
+                label: "The Johns Hopkins University - Homewood Campus"
+            },
+            {
+                lat: 39.3459,
+                lon: -76.5832,
+                label: "Morgan State University"
+            },
+            {
+                lat: 39.291,
+                lon: -76.61073,
+                label: "Baltimore City Hall"
+            },
+            {
+                lat: 39.254,
+                lon: -76.73406,
+                label: "The Community College of Baltimore County - Catonsville Campus"
+            },
+            {
+                lat: 39.2657,
+                lon: -76.51482,
+                label: "The Community College of Baltimore County - Dundalk Campus"
+            },
+            {
+                lat: 39.35452,
+                lon: -76.48061,
+                label: "The Community College of Baltimore County - Essex Campus"
+            }
+        ]
+        const campuses = L.featureGroup();
+        const icon = new L.IconEx({
+            contentHtml: `<i class="fa fa-building"></i>`,
+            iconFill: "#002D72",
+            iconStroke: null,
+            backgroundFill: "#002D72",
+            contentColor: "#fff"
+        })
+        locations.forEach(c => {
+            L.marker([c.lat, c.lon], {icon: icon}).bindTooltip(c.label).addTo(campuses);
+        })
+        campuses.addTo(map);
+        d3.csv("alumni.csv").then((data) => {
+            const alumni = L.markerClusterGroup();
+            const subgroups = [];
+            const gradDates = Array.from(new Set(data.map(d => d.end_date)));
+            const barScale = d3.scaleLinear().range([0,1])
+            gradDates.forEach(cohort => {
+                let endDate = cohort.split("/");
+                let gradDate = new Date(endDate[2], 
+                    endDate[0].length < 2 ? `0${endDate[0]}` : endDate[0], 
+                    endDate[1].length < 2 ? `0${endDate[1]}` : endDate[1]);
+                let dateStrings = gradDate.toDateString().split(" ");
+                let cohortLabel = `${dateStrings[1]} ${dateStrings[3]}`;
+                let cohortData = data.filter(d => d.end_date === cohort);
+                subgroups.push({
+                    label: cohortLabel, 
+                    data: cohortData, 
+                    date: gradDate});
+            })
+            const subgroupsSorted = subgroups.slice().sort((a,b) => b.date - a.date)
+            const dateScale = d3.scaleTime().domain([1,0]).range(subgroupsSorted.map(m => m.date))
+
+            subgroupsSorted.forEach(group => {
+                let groupMarkers = [];
+                group.data.forEach(alum => {
+                    groupMarkers.push(
+                        L.circleMarker([alum.latitude, alum.longitude], {
+                            radius: 8,
+                            fillColor: "#db0505",
+                            fillOpacity: .35,
+                            stroke: true,
+                            weight: 0.5,
+                            color: "white"
+                        }).bindTooltip(alum.business_name)
+                    )
+                })
+                let cohortGroup = L.featureGroup.subGroup(alumni, groupMarkers)
+                cohortGroup.addTo(map);
+                group.layerGroup = cohortGroup;
+            })
+            alumni.addTo(map)
+            const overlays = {}
+            subgroupsSorted.forEach(g => overlays[g.label] = g.layerGroup)
+            const layerControl = L.control.layers(null, overlays, {collapsed: false}).addTo(map);
+            const clusterLegend = L.control({position: "bottomright"})
+            clusterLegend.onAdd = function(map) {
+                let div = L.DomUtil.create("div", 'legend cluster');
+                let h3 = L.DomUtil.create("h3", null, div);
+                h3.innerHTML = "Cohorts by Program End Date";
+                let sum = L.DomUtil.create("p", "bizSum", div);
+                sum.textContent = `${data.length} Businesses`;
+                let pGroup = L.DomUtil.create("div", "progressGroup", div);
+                let pBar = L.DomUtil.create("div", "progress", pGroup);
+                let pLabels = L.DomUtil.create("div", "labels", pGroup);
+                subgroupsSorted.forEach((group, i) => {
+                    let entry = L.DomUtil.create("div", `entry`, pLabels);
+                    entry.innerHTML = `<div class="label index-${i}">${group.label}</div>`
+                    let bartick = L.DomUtil.create("div", `barTick index-${i}`, pBar)
+                })
+                return div;
+            }
+            clusterLegend.addTo(map);
+            function updateLegend(i) {
+                d3.selectAll(`div.barTick`).style("background", 
+                    (d,j) => j < i ? "transparent" : "#002D72"
+                );
+                d3.selectAll("div.labels div.entry div.label").style("font-weight", 
+                    (d,j) => j < i ? "300" : "500"
+                )
+                let chkbxs = document.querySelectorAll("div.leaflet-control-layers-overlays input.leaflet-control-layers-selector")
+                chkbxs.forEach((c,j) => {
+                    if (j < i && c.checked) {
+                        c.click();
+                    } else if (j >= i && !c.checked) {
+                        c.click();
+                    }
+                })
+                let sum = subgroupsSorted.slice(i).flatMap(f => f.data.map(m => m.cohort)).length;
+                let sumP = document.querySelector("div.cluster.legend p.bizSum");
+                sumP.textContent = `${sum} Businesses`;
+            }
+            function handleClusterLegendClick(e) {
+                let i = e.target.classList.value.split("-")[1];
+                updateLegend(i);
+            }
+            d3.selectAll("div.legend.cluster div.progressGroup div.progress").on("click", handleClusterLegendClick)
+            function handleLegendLabelsClick(e) {
+                let i = e.target.querySelector(".label").classList.value.split("-")[1];
+                updateLegend(i);
+            }
+            d3.selectAll("div.legend.cluster div.progressGroup div.labels").on("click", handleLegendLabelsClick)
+        })
+    </script>
+</body>
+</html>
