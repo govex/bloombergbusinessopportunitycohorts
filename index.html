@@ -224,7 +224,7 @@
                         c.click();
                     }
                 })
-                map.flyToBounds(alumni.getBounds());
+                // map.flyToBounds(alumni.getBounds());
             }
             d3.selectAll("div.legend.cluster div.progressGroup div.progress").on("click", handleClusterLegendClick)
             function handleLegendLabelsClick(e) {
@@ -243,10 +243,9 @@
                         c.click();
                     }
                 })
-                map.flyToBounds(alumni.getBounds());
+                // map.flyToBounds(alumni.getBounds());
             }
             d3.selectAll("div.legend.cluster div.progressGroup div.labels").on("click", handleLegendLabelsClick)
-                map.flyToBounds(alumni.getBounds());
         })
     </script>
 </body>
