@@ -42,6 +42,18 @@
             flex-direction: column;
             flex-wrap: wrap;
             height: 50vh;
+        }        
+        div.legend.transit h3 {
+            width: 120px;
+        }
+        div.legend div.toggles {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+        div.legend div.toggles span {
+            vertical-align: text-top;
+            line-height: .9em;
         }
         div.legend div.entry {
             display: flex;
@@ -175,9 +187,98 @@
             })
             alumni.addTo(map)
             const overlays = {}
-            overlays["Partner Locations"] = campuses;
             subgroupsSorted.forEach(g => overlays[g.label] = g.layerGroup)
-            const layerControl = L.control.layers(null, overlays, {collapsed: true}).addTo(map);
+            const layerControl = L.control.layers(null, overlays, {collapsed: true});
+
+            const transitLayerControl = L.control({position: "bottomright"})
+            const transit_subgroups = [];
+            Promise.all([d3.json("blue_jay_shuttle_area.json"), 
+                d3.json("jhu_shuttle_routes.geojson"),
+                d3.json("Baltimore_Region_Public_Transit_(routes).geojson")
+            ]).then(([bjarea, jhu_shuttle, transitData]) => {
+
+                let styles = {
+                    color: "#ff9333",
+                    weight: 1,
+                    opacity: 0.65,
+                };
+                let eachLayer = (layer) => {
+                    layer.bindTooltip(
+                        `${layer.feature.properties.Operator} ${layer.feature.properties.Route_Shor}<br/>${layer.feature.properties.LINENAME}`,
+                        { sticky: true }
+                    );
+                }
+                let labels = ['Bus', 'Commuter', 'Local Bus', 'Local Ferry', 'Intercity', 'MARC', 'Light Rail', 'Subway'];
+                labels.forEach((label) => {
+                    let geoJsonLayer = L.geoJson();
+                    geoJsonLayer.addData(transitData.features.filter(t => t.properties.TYPE === label))
+                        .setStyle(styles)
+                        .eachLayer(eachLayer)
+                    transit_subgroups.push({
+                        "layer": geoJsonLayer,
+                        "label": label
+                    })
+                })
+                let bjareaLayer = L.geoJson();
+                bjareaLayer.addData(bjarea).setStyle({
+                    color: "#0d6efd",
+                    opacity: 0.65,
+                    fillOpacity: 0,
+                    weight: 1,
+                })
+                transit_subgroups.push({
+                    "layer": bjareaLayer,
+                    "label": "Blue Jay Shuttle Area"
+                })
+                let jhuShuttleLayer = L.geoJson();
+                jhuShuttleLayer.addData(jhu_shuttle).setStyle({
+                        color: "#0a58ca",
+                        weight: 1,
+                        opacity: 0.65
+                    })
+                jhuShuttleLayer.eachLayer((layer) => {
+                    layer.bindTooltip(
+                        `${layer.feature.properties.Name}`,
+                        { sticky: true }
+                    );
+                })
+                transit_subgroups.push({
+                    "layer": jhuShuttleLayer,
+                    "label": "JHU Shuttle Routes"
+                })
+                transit_subgroups.push({
+                    layer: campuses,
+                    label: "Partner Locations"
+                });
+
+                transitLayerControl.onAdd = function(map) {
+                    let div = L.DomUtil.create("div", "legend transit");
+                    let h3 = L.DomUtil.create("h3", null, div);
+                    h3.textContent = "Baltimore Region Transit"
+                    let toggles = L.DomUtil.create("div", "toggles", div);
+                    transit_subgroups.forEach(({label}) => {
+                        let entry = L.DomUtil.create("label", "entry", toggles);
+                        let chckbx = L.DomUtil.create("input", null, entry);
+                        chckbx.value = label;
+                        chckbx.type = "checkbox";
+                        let chckLabel = L.DomUtil.create("span", null, entry);
+                        chckLabel.textContent = label;
+                    })
+                    return div;
+                }
+                transitLayerControl.addTo(map);
+                console.log(transit_subgroups)
+                d3.selectAll("div.toggles input").on("change", (e)=>{
+                    console.log(e.target.value, e.target.checked);
+                    let selected = transit_subgroups.find(f => f.label === e.target.value);
+                    if (e.target.checked) {
+                        selected.layer.addTo(map);
+                    } else {
+                        selected.layer.removeFrom(map);
+                    }
+                })
+                layerControl.addTo(map);
+            });
             const clusterLegend = L.control({position: "bottomleft"})
             clusterLegend.onAdd = function(map) {
                 let div = L.DomUtil.create("div", 'legend cluster');
