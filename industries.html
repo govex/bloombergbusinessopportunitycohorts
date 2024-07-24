@@ -42,6 +42,7 @@
             flex-direction: column;
             flex-wrap: wrap;
             height: 50vh;
+            min-width: 270px;
         }        
         div.legend.transit h3 {
             width: 120px;
@@ -267,15 +268,16 @@
                     return div;
                 }
                 transitLayerControl.addTo(map);
-                console.log(transit_subgroups)
                 d3.selectAll("div.toggles input").on("change", (e)=>{
-                    console.log(e.target.value, e.target.checked);
                     let selected = transit_subgroups.find(f => f.label === e.target.value);
                     if (e.target.checked) {
                         selected.layer.addTo(map);
                     } else {
                         selected.layer.removeFrom(map);
                     }
+                })
+                d3.selectAll("div.toggles label.entry span").on("click", (e) =>{
+                    L.DomEvent.stopPropagation(e);
                 })
                 layerControl.addTo(map);
             });
